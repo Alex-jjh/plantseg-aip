@@ -1,0 +1,21 @@
+{
+ "name": "S1_aug_280",
+ "finetune": true,
+ "class_weights": false,
+ "augment": true,
+ "epochs": 30,
+ "batch_size": 32,
+ "lr_head": 0.001,
+ "lr_backbone": 0.0001,
+ "weight_decay": 0.0001,
+ "label_smoothing": 0.0,
+ "arch": "resnet18",
+ "input_size": 280,
+ "seed": 1,
+ "best_epoch": 27,
+ "train_seconds": 497,
+ "val_macro_f1": 0.7713400539607577,
+ "val_accuracy": 0.8246013667425968,
+ "val_balanced_accuracy": 0.7859897771558392,
+ "device": "NVIDIA L4 (shared by 4 concurrent runs)"
+}

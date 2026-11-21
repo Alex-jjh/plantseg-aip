@@ -1,0 +1,21 @@
+{
+ "name": "S1_aug_convnext_t",
+ "finetune": true,
+ "class_weights": false,
+ "augment": true,
+ "epochs": 30,
+ "batch_size": 32,
+ "lr_head": 0.001,
+ "lr_backbone": 0.0001,
+ "weight_decay": 0.0001,
+ "label_smoothing": 0.0,
+ "arch": "convnext_tiny",
+ "input_size": 224,
+ "seed": 2,
+ "best_epoch": 26,
+ "train_seconds": 998,
+ "val_macro_f1": 0.8144652211835416,
+ "val_accuracy": 0.856492027334852,
+ "val_balanced_accuracy": 0.8142444837160236,
+ "device": "NVIDIA L4 (shared by 4 concurrent runs)"
+}

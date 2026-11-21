@@ -1,0 +1,21 @@
+{
+ "name": "S1_aug_lrb3e-4",
+ "finetune": true,
+ "class_weights": false,
+ "augment": true,
+ "epochs": 30,
+ "batch_size": 32,
+ "lr_head": 0.001,
+ "lr_backbone": 0.0003,
+ "weight_decay": 0.0001,
+ "label_smoothing": 0.0,
+ "arch": "resnet18",
+ "input_size": 224,
+ "seed": 1,
+ "best_epoch": 27,
+ "train_seconds": 312,
+ "val_macro_f1": 0.7249989115049037,
+ "val_accuracy": 0.7790432801822323,
+ "val_balanced_accuracy": 0.7279162528177427,
+ "device": "NVIDIA L4 (shared by 4 concurrent runs)"
+}

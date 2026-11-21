@@ -1,0 +1,21 @@
+{
+ "name": "S1_aug_effb0",
+ "finetune": true,
+ "class_weights": false,
+ "augment": true,
+ "epochs": 30,
+ "batch_size": 32,
+ "lr_head": 0.001,
+ "lr_backbone": 0.0001,
+ "weight_decay": 0.0001,
+ "label_smoothing": 0.0,
+ "arch": "efficientnet_b0",
+ "input_size": 224,
+ "seed": 2,
+ "best_epoch": 30,
+ "train_seconds": 565,
+ "val_macro_f1": 0.7136986619051677,
+ "val_accuracy": 0.7744874715261959,
+ "val_balanced_accuracy": 0.7245572897598116,
+ "device": "NVIDIA L4 (shared by 4 concurrent runs)"
+}

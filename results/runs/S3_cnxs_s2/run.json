@@ -1,0 +1,21 @@
+{
+ "name": "S3_cnxs",
+ "finetune": true,
+ "class_weights": false,
+ "augment": true,
+ "epochs": 30,
+ "batch_size": 32,
+ "lr_head": 0.001,
+ "lr_backbone": 0.0001,
+ "weight_decay": 0.0001,
+ "label_smoothing": 0.0,
+ "arch": "convnext_small",
+ "input_size": 224,
+ "seed": 2,
+ "best_epoch": 26,
+ "train_seconds": 1575,
+ "val_macro_f1": 0.8129023854686732,
+ "val_accuracy": 0.8542141230068337,
+ "val_balanced_accuracy": 0.8192620825862218,
+ "device": "NVIDIA L4 (shared by 4 concurrent runs)"
+}

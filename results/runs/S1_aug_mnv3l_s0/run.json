@@ -1,0 +1,21 @@
+{
+ "name": "S1_aug_mnv3l",
+ "finetune": true,
+ "class_weights": false,
+ "augment": true,
+ "epochs": 30,
+ "batch_size": 32,
+ "lr_head": 0.001,
+ "lr_backbone": 0.0001,
+ "weight_decay": 0.0001,
+ "label_smoothing": 0.0,
+ "arch": "mobilenet_v3_large",
+ "input_size": 224,
+ "seed": 0,
+ "best_epoch": 20,
+ "train_seconds": 349,
+ "val_macro_f1": 0.7425543407176992,
+ "val_accuracy": 0.8086560364464692,
+ "val_balanced_accuracy": 0.7552698360674334,
+ "device": "NVIDIA L4 (shared by 4 concurrent runs)"
+}

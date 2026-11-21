@@ -1,0 +1,21 @@
+{
+ "name": "S1_aug_resnet50",
+ "finetune": true,
+ "class_weights": false,
+ "augment": true,
+ "epochs": 30,
+ "batch_size": 32,
+ "lr_head": 0.001,
+ "lr_backbone": 0.0001,
+ "weight_decay": 0.0001,
+ "label_smoothing": 0.0,
+ "arch": "resnet50",
+ "input_size": 224,
+ "seed": 2,
+ "best_epoch": 27,
+ "train_seconds": 883,
+ "val_macro_f1": 0.7631485224879121,
+ "val_accuracy": 0.826879271070615,
+ "val_balanced_accuracy": 0.7773076934960597,
+ "device": "NVIDIA L4 (shared by 4 concurrent runs)"
+}

@@ -1,0 +1,21 @@
+{
+ "name": "S3_cnxt_lrb5e-5",
+ "finetune": true,
+ "class_weights": false,
+ "augment": true,
+ "epochs": 30,
+ "batch_size": 32,
+ "lr_head": 0.001,
+ "lr_backbone": 5e-05,
+ "weight_decay": 0.0001,
+ "label_smoothing": 0.0,
+ "arch": "convnext_tiny",
+ "input_size": 224,
+ "seed": 0,
+ "best_epoch": 12,
+ "train_seconds": 1050,
+ "val_macro_f1": 0.8210687168913828,
+ "val_accuracy": 0.8610478359908884,
+ "val_balanced_accuracy": 0.8262494038604786,
+ "device": "NVIDIA L4 (shared by 4 concurrent runs)"
+}

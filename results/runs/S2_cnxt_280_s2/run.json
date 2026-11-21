@@ -1,0 +1,21 @@
+{
+ "name": "S2_cnxt_280",
+ "finetune": true,
+ "class_weights": false,
+ "augment": true,
+ "epochs": 30,
+ "batch_size": 32,
+ "lr_head": 0.001,
+ "lr_backbone": 0.0001,
+ "weight_decay": 0.0001,
+ "label_smoothing": 0.0,
+ "arch": "convnext_tiny",
+ "input_size": 280,
+ "seed": 2,
+ "best_epoch": 22,
+ "train_seconds": 1613,
+ "val_macro_f1": 0.7959318681446551,
+ "val_accuracy": 0.8428246013667426,
+ "val_balanced_accuracy": 0.8019599981757242,
+ "device": "NVIDIA L4 (shared by 4 concurrent runs)"
+}

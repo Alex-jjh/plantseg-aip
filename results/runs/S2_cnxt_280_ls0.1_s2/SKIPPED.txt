@@ -1,0 +1,1 @@
+skipped by validation-only pruning: convnext_tiny@280 (0.795) < @224 (0.809); not run

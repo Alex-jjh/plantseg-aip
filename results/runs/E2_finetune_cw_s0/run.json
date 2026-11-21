@@ -1,0 +1,21 @@
+{
+ "name": "E2_finetune_cw",
+ "finetune": true,
+ "class_weights": true,
+ "augment": false,
+ "epochs": 30,
+ "batch_size": 32,
+ "lr_head": 0.001,
+ "lr_backbone": 0.0001,
+ "weight_decay": 0.0001,
+ "label_smoothing": 0.0,
+ "arch": "resnet18",
+ "input_size": 224,
+ "seed": 0,
+ "best_epoch": 13,
+ "train_seconds": 300,
+ "val_macro_f1": 0.6557976222865185,
+ "val_accuracy": 0.715261958997722,
+ "val_balanced_accuracy": 0.6624976986936483,
+ "device": "NVIDIA L4 (shared by 4 concurrent runs)"
+}

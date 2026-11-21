@@ -1,0 +1,21 @@
+{
+ "name": "S2_r18_336",
+ "finetune": true,
+ "class_weights": false,
+ "augment": true,
+ "epochs": 30,
+ "batch_size": 32,
+ "lr_head": 0.001,
+ "lr_backbone": 0.0001,
+ "weight_decay": 0.0001,
+ "label_smoothing": 0.0,
+ "arch": "resnet18",
+ "input_size": 336,
+ "seed": 2,
+ "best_epoch": 20,
+ "train_seconds": 654,
+ "val_macro_f1": 0.746863846174558,
+ "val_accuracy": 0.8041002277904328,
+ "val_balanced_accuracy": 0.7589347224674056,
+ "device": "NVIDIA L4 (shared by 4 concurrent runs)"
+}

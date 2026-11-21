@@ -1,0 +1,21 @@
+{
+ "name": "S1_aug_ep50",
+ "finetune": true,
+ "class_weights": false,
+ "augment": true,
+ "epochs": 50,
+ "batch_size": 32,
+ "lr_head": 0.001,
+ "lr_backbone": 0.0001,
+ "weight_decay": 0.0001,
+ "label_smoothing": 0.0,
+ "arch": "resnet18",
+ "input_size": 224,
+ "seed": 0,
+ "best_epoch": 47,
+ "train_seconds": 520,
+ "val_macro_f1": 0.7474973966413027,
+ "val_accuracy": 0.785876993166287,
+ "val_balanced_accuracy": 0.7545710102199128,
+ "device": "NVIDIA L4 (shared by 4 concurrent runs)"
+}

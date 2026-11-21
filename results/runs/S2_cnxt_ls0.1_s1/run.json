@@ -1,0 +1,21 @@
+{
+ "name": "S2_cnxt_ls0.1",
+ "finetune": true,
+ "class_weights": false,
+ "augment": true,
+ "epochs": 30,
+ "batch_size": 32,
+ "lr_head": 0.001,
+ "lr_backbone": 0.0001,
+ "weight_decay": 0.0001,
+ "label_smoothing": 0.1,
+ "arch": "convnext_tiny",
+ "input_size": 224,
+ "seed": 1,
+ "best_epoch": 17,
+ "train_seconds": 1054,
+ "val_macro_f1": 0.8236046879286522,
+ "val_accuracy": 0.8633257403189066,
+ "val_balanced_accuracy": 0.8310683880510801,
+ "device": "NVIDIA L4 (shared by 4 concurrent runs)"
+}

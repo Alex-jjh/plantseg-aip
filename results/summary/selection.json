@@ -1,0 +1,177 @@
+{
+ "final_config": "S3_cnxt_lrb2e-4",
+ "final_kind": "ensemble (3 seeds)",
+ "final_val_macro_f1": 0.8350307683241964,
+ "demo_seed": 0,
+ "comparisons": [
+  "E0_frozen",
+  "E1_finetune",
+  "E2_finetune_cw",
+  "E3_finetune_aug"
+ ],
+ "frozen_at": "2026-11-21T14:16:06.443990+00:00",
+ "candidates": [
+  {
+   "candidate": "S3_cnxt_lrb2e-4",
+   "kind": "ensemble (3 seeds)",
+   "val_macro_f1": 0.8350307683241964,
+   "sd": NaN
+  },
+  {
+   "candidate": "S1_aug_convnext_t",
+   "kind": "ensemble (3 seeds)",
+   "val_macro_f1": 0.8333509504867685,
+   "sd": NaN
+  },
+  {
+   "candidate": "S3_cnxs",
+   "kind": "ensemble (3 seeds)",
+   "val_macro_f1": 0.820889529719485,
+   "sd": NaN
+  },
+  {
+   "candidate": "S3_cnxs",
+   "kind": "single (3-seed mean)",
+   "val_macro_f1": 0.8195563875416626,
+   "sd": 0.005948190446332566
+  },
+  {
+   "candidate": "S3_cnxt_lrb5e-5",
+   "kind": "single (3-seed mean)",
+   "val_macro_f1": 0.8170502253573156,
+   "sd": 0.004194744064489649
+  },
+  {
+   "candidate": "S2_cnxt_ls0.1",
+   "kind": "single (3-seed mean)",
+   "val_macro_f1": 0.815661295540998,
+   "sd": 0.008407355056974637
+  },
+  {
+   "candidate": "S1_aug_convnext_t",
+   "kind": "single (3-seed mean)",
+   "val_macro_f1": 0.8092851004134257,
+   "sd": 0.015632452623615827
+  },
+  {
+   "candidate": "S3_cnxt_lrb5e-5",
+   "kind": "ensemble (3 seeds)",
+   "val_macro_f1": 0.808400934058875,
+   "sd": NaN
+  },
+  {
+   "candidate": "S2_cnxt_ls0.1",
+   "kind": "ensemble (3 seeds)",
+   "val_macro_f1": 0.8023312703330934,
+   "sd": NaN
+  },
+  {
+   "candidate": "S3_cnxt_lrb2e-4",
+   "kind": "single (3-seed mean)",
+   "val_macro_f1": 0.7998353233480068,
+   "sd": 0.006203207949231795
+  },
+  {
+   "candidate": "S2_cnxt_280",
+   "kind": "single (3-seed mean)",
+   "val_macro_f1": 0.7952546940578746,
+   "sd": 0.00824021657187252
+  },
+  {
+   "candidate": "S2_r50_280",
+   "kind": "single (3-seed mean)",
+   "val_macro_f1": 0.778517893567208,
+   "sd": 0.01821222129828816
+  },
+  {
+   "candidate": "S2_r18_280_ls0.1",
+   "kind": "single (3-seed mean)",
+   "val_macro_f1": 0.7670398701632303,
+   "sd": 0.01089028654283559
+  },
+  {
+   "candidate": "S1_aug_resnet50",
+   "kind": "single (3-seed mean)",
+   "val_macro_f1": 0.7603365292099805,
+   "sd": 0.006403304745643646
+  },
+  {
+   "candidate": "S1_aug_280",
+   "kind": "single (3-seed mean)",
+   "val_macro_f1": 0.7592729219744649,
+   "sd": 0.018332408791759403
+  },
+  {
+   "candidate": "S2_r18_336",
+   "kind": "single (3-seed mean)",
+   "val_macro_f1": 0.7592257113283644,
+   "sd": 0.012960554430427245
+  },
+  {
+   "candidate": "S1_aug_mnv3l",
+   "kind": "single (3-seed mean)",
+   "val_macro_f1": 0.741972312288202,
+   "sd": 0.01015097190028547
+  },
+  {
+   "candidate": "S1_aug_ls0.1",
+   "kind": "single (3-seed mean)",
+   "val_macro_f1": 0.7399907103318989,
+   "sd": 0.018191200973253278
+  },
+  {
+   "candidate": "S1_aug_effb0",
+   "kind": "single (3-seed mean)",
+   "val_macro_f1": 0.739836682499572,
+   "sd": 0.030664449661817608
+  },
+  {
+   "candidate": "S1_aug_ep50",
+   "kind": "single (3-seed mean)",
+   "val_macro_f1": 0.7349221633008266,
+   "sd": 0.015573520151770793
+  },
+  {
+   "candidate": "E3_finetune_aug",
+   "kind": "single (3-seed mean)",
+   "val_macro_f1": 0.7332415958319872,
+   "sd": 0.024216451057849076
+  },
+  {
+   "candidate": "S1_aug_cw",
+   "kind": "single (3-seed mean)",
+   "val_macro_f1": 0.7257681794248506,
+   "sd": 0.007367098712663355
+  },
+  {
+   "candidate": "S1_aug_lrb3e-5",
+   "kind": "single (3-seed mean)",
+   "val_macro_f1": 0.7078469032836662,
+   "sd": 0.008612980955202605
+  },
+  {
+   "candidate": "S1_aug_lrb3e-4",
+   "kind": "single (3-seed mean)",
+   "val_macro_f1": 0.7077490290583092,
+   "sd": 0.014941100074419253
+  },
+  {
+   "candidate": "E2_finetune_cw",
+   "kind": "single (3-seed mean)",
+   "val_macro_f1": 0.6552769877705259,
+   "sd": 0.009401588557956338
+  },
+  {
+   "candidate": "E1_finetune",
+   "kind": "single (3-seed mean)",
+   "val_macro_f1": 0.6537493672302382,
+   "sd": 0.012889679709675929
+  },
+  {
+   "candidate": "E0_frozen",
+   "kind": "single (3-seed mean)",
+   "val_macro_f1": 0.5313198649615091,
+   "sd": 0.0032208944374750633
+  }
+ ]
+}

@@ -2,7 +2,7 @@
 __pycache__/
 .ipynb_checkpoints/
 # downloaded dataset (fetched + MD5-checked by scripts/01_prepare_data.py / the notebook)
-data/
+/data/
 # image caches, checkpoints, rebuilt manifests, logs (checkpoints are published on Hugging Face)
-outputs/
+/outputs/
 *.pt

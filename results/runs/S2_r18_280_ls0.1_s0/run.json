@@ -1,0 +1,21 @@
+{
+ "name": "S2_r18_280_ls0.1",
+ "finetune": true,
+ "class_weights": false,
+ "augment": true,
+ "epochs": 30,
+ "batch_size": 32,
+ "lr_head": 0.001,
+ "lr_backbone": 0.0001,
+ "weight_decay": 0.0001,
+ "label_smoothing": 0.1,
+ "arch": "resnet18",
+ "input_size": 280,
+ "seed": 0,
+ "best_epoch": 25,
+ "train_seconds": 550,
+ "val_macro_f1": 0.7752018871725601,
+ "val_accuracy": 0.8154897494305239,
+ "val_balanced_accuracy": 0.7806512183006561,
+ "device": "NVIDIA L4 (shared by 4 concurrent runs)"
+}
