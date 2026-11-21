@@ -1,0 +1,5782 @@
+{
+ "n_images": 4349,
+ "n_classes": 43,
+ "unreadable": [],
+ "exact_groups": [
+  [
+   "banana_black_leaf_streak_Bing_0015.jpg",
+   "banana_black_leaf_streak_banana black sigatoka (28).jpg"
+  ],
+  [
+   "banana_bunchy_top_Bing_0152.jpg",
+   "banana_bunchy_top_Bing_0189.jpg"
+  ],
+  [
+   "banana_cigar_end_rot_Bing_0002.jpg",
+   "banana_cigar_end_rot_Google_0010.jpg"
+  ],
+  [
+   "citrus_canker_276.jpg",
+   "citrus_canker_279.jpg"
+  ],
+  [
+   "soybean_bacterial_blight_Bing_0105.jpg",
+   "soybean_brown_spot_Bing_0046.jpg",
+   "soybean_brown_spot_Bing_0070.jpg"
+  ],
+  [
+   "soybean_brown_spot_Bing_0025.jpg",
+   "soybean_brown_spot_Bing_0042.jpg"
+  ],
+  [
+   "soybean_downy_mildew_Google_0061.jpg",
+   "soybean_downy_mildew_Bing_0076.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Baidu_0012.jpg",
+   "soybean_brown_spot_Baidu_0031.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0004.jpg",
+   "soybean_frog_eye_leaf_spot_Bing_0039.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0089.jpg",
+   "soybean_frog_eye_leaf_spot_Google_0218.jpg"
+  ],
+  [
+   "tomato_bacterial_leaf_spot_google_0163.jpg",
+   "tomato_septoria_leaf_spot_google_0052.jpg"
+  ],
+  [
+   "tomato_early_blight_google_0041.jpg",
+   "potato_early_blight_google_0100.jpg"
+  ],
+  [
+   "tomato_early_blight_google_0177.jpg",
+   "tomato_septoria_leaf_spot_google_0081.jpg"
+  ],
+  [
+   "tomato_mosaic_virus_143.jpg",
+   "tomato_yellow_leaf_curl_virus_40.jpg"
+  ],
+  [
+   "tomato_septoria_leaf_spot_google_0205.jpg",
+   "tomato_early_blight_google_0260.jpg"
+  ],
+  [
+   "tomato_yellow_leaf_curl_virus_4.jpg",
+   "tomato_mosaic_virus_13.jpg"
+  ],
+  [
+   "wheat_bacterial_leaf_streak_(black_chaff)_Google_0141.jpg",
+   "wheat_septoria_blotch_Google_0212.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0065.jpg",
+   "wheat_head_scab_Baidu_0291.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0137.jpg",
+   "wheat_head_scab_Baidu_0297.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0281.jpg",
+   "wheat_head_scab_Baidu_0403.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0310.jpg",
+   "wheat_head_scab_Baidu_0202.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0368.jpg",
+   "wheat_head_scab_Baidu_0247.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0404.jpg",
+   "wheat_head_scab_Baidu_0282.jpg"
+  ],
+  [
+   "wheat_head_scab_Bing_0023.jpg",
+   "wheat_head_scab_Bing_0156.jpg"
+  ],
+  [
+   "wheat_head_scab_Bing_0040.jpg",
+   "wheat_head_scab_Bing_0229.jpg"
+  ],
+  [
+   "wheat_head_scab_Bing_0043.jpg",
+   "wheat_head_scab_Bing_0109.jpg"
+  ],
+  [
+   "wheat_head_scab_Bing_0206.jpg",
+   "wheat_head_scab_Bing_0014.jpg"
+  ],
+  [
+   "wheat_head_scab_Bing_0219.jpg",
+   "wheat_head_scab_Google_0229.jpg"
+  ],
+  [
+   "wheat_head_scab_Google_0083.jpg",
+   "wheat_head_scab_Bing_0145.jpg"
+  ],
+  [
+   "wheat_leaf_rust_Google_0374.jpg",
+   "wheat_stripe_rust_Google_0123.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0008.jpg",
+   "wheat_loose_smut_Bing_0104.jpg",
+   "wheat_loose_smut_Bing_0129.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0176.jpg",
+   "wheat_loose_smut_Bing_0203.jpg"
+  ],
+  [
+   "wheat_loose_smut_Google_0065.jpg",
+   "wheat_loose_smut_Bing_0224.jpg"
+  ],
+  [
+   "wheat_powdery_mildew_Bing_0163.jpg",
+   "wheat_powdery_mildew_Bing_0059.jpg"
+  ],
+  [
+   "wheat_septoria_blotch_Bing_0045.jpg",
+   "wheat_septoria_blotch_blotch (105).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_Google_0016.jpg",
+   "wheat_septoria_blotch_google_septoria (6).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_Google_0058.jpg",
+   "wheat_septoria_blotch_google_septoria (10).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_Google_0174.jpg",
+   "wheat_bacterial_leaf_streak_(black_chaff)_Google_0363.jpg"
+  ],
+  [
+   "wheat_septoria_blotch_Google_0206.jpg",
+   "wheat_septoria_blotch_google_septoria (13).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_Google_0309.jpg",
+   "wheat_septoria_blotch_google_septoria (21).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_blotch (10).jpg",
+   "wheat_septoria_blotch_blotch (113).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_blotch (12).jpg",
+   "wheat_septoria_blotch_blotch (87).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_blotch (22).jpg",
+   "wheat_bacterial_leaf_streak_(black_chaff)_Bing_0006.jpg",
+   "wheat_septoria_blotch_blotch (100).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_blotch (69).jpg",
+   "wheat_septoria_blotch_blotch (14).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_blotch (79).jpg",
+   "wheat_septoria_blotch_blotch (33).jpg"
+  ],
+  [
+   "wheat_stem_rust_Bing_0002.jpg",
+   "wheat_stem_rust_Bing_0078.jpg"
+  ],
+  [
+   "wheat_stem_rust_Bing_0040.jpg",
+   "wheat_stem_rust_Google_0035.jpg"
+  ],
+  [
+   "wheat_stem_rust_Bing_0070.jpg",
+   "wheat_stem_rust_Google_0028.jpg"
+  ],
+  [
+   "wheat_stem_rust_Bing_0247.jpg",
+   "wheat_stem_rust_Bing_0167.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Baidu_0106.jpg",
+   "wheat_stripe_rust_Baidu_0196.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Baidu_0484.jpg",
+   "wheat_stripe_rust_Baidu_0466.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Bing_0002.jpg",
+   "wheat_stripe_rust_Google_0045.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Bing_0137.jpg",
+   "wheat_stripe_rust_Bing_0055.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Bing_0173.jpg",
+   "wheat_stripe_rust_Bing_0031.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Google_0029.jpg",
+   "wheat_stripe_rust_Bing_0006.jpg"
+  ],
+  [
+   "zucchini_bacterial_wilt_Bing_0019.jpg",
+   "zucchini_bacterial_wilt_Google_0008.jpg"
+  ],
+  [
+   "zucchini_powdery_mildew_Bing_0289.jpg",
+   "zucchini_powdery_mildew_Bing_0330.jpg"
+  ],
+  [
+   "zucchini_powdery_mildew_Bing_0336.jpg",
+   "zucchini_powdery_mildew_Bing_0357.jpg"
+  ],
+  [
+   "zucchini_powdery_mildew_Bing_0337.jpg",
+   "zucchini_powdery_mildew_Bing_0297.jpg"
+  ],
+  [
+   "apple_rust_162.jpg",
+   "apple_scab_76.jpg"
+  ],
+  [
+   "apple_rust_78.jpg",
+   "apple_scab_65.jpg"
+  ],
+  [
+   "banana_anthracnose_Bing_0023.jpg",
+   "banana_anthracnose_Bing_0075.jpg"
+  ],
+  [
+   "banana_anthracnose_Bing_0065.jpg",
+   "banana_anthracnose_Bing_0300.jpg"
+  ],
+  [
+   "banana_black_leaf_streak_Bing_0005.jpg",
+   "banana_black_leaf_streak_banana black sigatoka (30).jpg"
+  ],
+  [
+   "banana_black_leaf_streak_Bing_0026.jpg",
+   "banana_black_leaf_streak_banana black sigatoka (52).jpg"
+  ],
+  [
+   "banana_black_leaf_streak_Bing_0046.jpg",
+   "banana_black_leaf_streak_banana black sigatoka (7).jpg"
+  ],
+  [
+   "banana_black_leaf_streak_Bing_0056.jpg",
+   "banana_black_leaf_streak_banana black sigatoka (9).jpg"
+  ],
+  [
+   "banana_bunchy_top_Bing_0026.jpg",
+   "banana_bunchy_top_Bing_0247.jpg"
+  ],
+  [
+   "banana_bunchy_top_Bing_0045.jpg",
+   "banana_bunchy_top_Google_0031.jpg"
+  ],
+  [
+   "banana_bunchy_top_Bing_0141.jpg",
+   "banana_bunchy_top_Bing_0347.jpg"
+  ],
+  [
+   "banana_bunchy_top_Bing_0245.jpg",
+   "banana_bunchy_top_Bing_0122.jpg"
+  ],
+  [
+   "banana_cigar_end_rot_Bing_0011.jpg",
+   "banana_cigar_end_rot_Google_0035.jpg"
+  ],
+  [
+   "banana_cordana_leaf_spot_Bing_0005.jpg",
+   "banana_cordana_leaf_spot_Google_0014.jpg"
+  ],
+  [
+   "citrus_canker_306.jpg",
+   "citrus_canker_308.jpg"
+  ],
+  [
+   "potato_early_blight_100.jpg",
+   "potato_early_blight_31.jpg"
+  ],
+  [
+   "potato_early_blight_55.jpg",
+   "potato_late_blight_10.jpg"
+  ],
+  [
+   "potato_early_blight_google_0005.jpg",
+   "tomato_early_blight_google_0044.jpg"
+  ],
+  [
+   "potato_early_blight_google_0055.jpg",
+   "tomato_early_blight_google_0120.jpg"
+  ],
+  [
+   "potato_early_blight_google_0200.jpg",
+   "tomato_early_blight_google_0343.jpg"
+  ],
+  [
+   "potato_early_blight_google_0284.jpg",
+   "potato_late_blight_google_0035.jpg"
+  ],
+  [
+   "soybean_bacterial_blight_Bing_0000.jpg",
+   "soybean_brown_spot_Bing_0051.jpg"
+  ],
+  [
+   "soybean_bacterial_blight_Bing_0103.jpg",
+   "soybean_brown_spot_Bing_0049.jpg"
+  ],
+  [
+   "soybean_brown_spot_Bing_0041.jpg",
+   "soybean_bacterial_blight_Bing_0119.jpg"
+  ],
+  [
+   "soybean_brown_spot_Bing_0129.jpg",
+   "soybean_brown_spot_Bing_0161.jpg"
+  ],
+  [
+   "soybean_brown_spot_Bing_0132.jpg",
+   "soybean_brown_spot_Bing_0160.jpg"
+  ],
+  [
+   "soybean_brown_spot_Bing_0241.jpg",
+   "soybean_brown_spot_Bing_0261.jpg"
+  ],
+  [
+   "soybean_downy_mildew_Bing_0020.jpg",
+   "soybean_downy_mildew_Google_0023.jpg"
+  ],
+  [
+   "soybean_downy_mildew_Bing_0071.jpg",
+   "soybean_downy_mildew_Google_0090.jpg",
+   "soybean_downy_mildew_Google_0127.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0018.jpg",
+   "soybean_frog_eye_leaf_spot_Google_0004.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0046.jpg",
+   "soybean_frog_eye_leaf_spot_Google_0018.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0091.jpg",
+   "soybean_frog_eye_leaf_spot_Google_0149.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0093.jpg",
+   "soybean_frog_eye_leaf_spot_Google_0284.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0172.jpg",
+   "soybean_frog_eye_leaf_spot_Google_0327.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0178.jpg",
+   "soybean_frog_eye_leaf_spot_Google_0015.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0184.jpg",
+   "soybean_frog_eye_leaf_spot_Google_0213.jpg"
+  ],
+  [
+   "soybean_mosaic_Google_0090.jpg",
+   "soybean_mosaic_Bing_0070.jpg"
+  ],
+  [
+   "soybean_rust_Bing_0098.jpg",
+   "soybean_rust_Google_0010.jpg"
+  ],
+  [
+   "tomato_bacterial_leaf_spot_google_0017.jpg",
+   "tomato_septoria_leaf_spot_google_0113.jpg"
+  ],
+  [
+   "tomato_bacterial_leaf_spot_google_0091.jpg",
+   "tomato_septoria_leaf_spot_google_0204.jpg"
+  ],
+  [
+   "tomato_early_blight_246.jpg",
+   "potato_early_blight_41.jpg"
+  ],
+  [
+   "tomato_mosaic_virus_2.jpg",
+   "tomato_yellow_leaf_curl_virus_1.jpg"
+  ],
+  [
+   "tomato_septoria_leaf_spot_6.jpg",
+   "tomato_bacterial_leaf_spot_28.jpg"
+  ],
+  [
+   "tomato_yellow_leaf_curl_virus_11.jpg",
+   "tomato_mosaic_virus_1.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0085.jpg",
+   "wheat_head_scab_Baidu_0298.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0091.jpg",
+   "wheat_head_scab_Baidu_0094.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0092.jpg",
+   "wheat_head_scab_Baidu_0095.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0131.jpg",
+   "wheat_head_scab_Baidu_0364.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0192.jpg",
+   "wheat_head_scab_Baidu_0289.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0194.jpg",
+   "wheat_head_scab_Baidu_0296.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0197.jpg",
+   "wheat_head_scab_Baidu_0303.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0215.jpg",
+   "wheat_head_scab_Baidu_0322.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0254.jpg",
+   "wheat_head_scab_Baidu_0380.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0257.jpg",
+   "wheat_head_scab_Baidu_0383.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0271.jpg",
+   "wheat_head_scab_Baidu_0394.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0276.jpg",
+   "wheat_head_scab_Baidu_0399.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0344.jpg",
+   "wheat_head_scab_Baidu_0231.jpg"
+  ],
+  [
+   "wheat_head_scab_Bing_0008.jpg",
+   "wheat_head_scab_Bing_0202.jpg",
+   "wheat_head_scab_Google_0259.jpg"
+  ],
+  [
+   "wheat_head_scab_Bing_0036.jpg",
+   "wheat_head_scab_Bing_0144.jpg"
+  ],
+  [
+   "wheat_head_scab_Bing_0067.jpg",
+   "wheat_head_scab_Bing_0132.jpg"
+  ],
+  [
+   "wheat_head_scab_Bing_0100.jpg",
+   "wheat_head_scab_Google_0105.jpg"
+  ],
+  [
+   "wheat_head_scab_Bing_0175.jpg",
+   "wheat_head_scab_Google_0196.jpg"
+  ],
+  [
+   "wheat_leaf_rust_Bing_0001.jpg",
+   "wheat_leaf_rust_Google_0000.jpg"
+  ],
+  [
+   "wheat_leaf_rust_Bing_0009.jpg",
+   "wheat_stripe_rust_Bing_0028.jpg"
+  ],
+  [
+   "wheat_leaf_rust_Google_0066.jpg",
+   "wheat_stripe_rust_Google_0147.jpg"
+  ],
+  [
+   "wheat_leaf_rust_Google_0355.jpg",
+   "wheat_stripe_rust_Bing_0247.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0015.jpg",
+   "wheat_loose_smut_Google_0041.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0023.jpg",
+   "wheat_loose_smut_Bing_0192.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0079.jpg",
+   "wheat_loose_smut_Bing_0100.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0091.jpg",
+   "wheat_loose_smut_Google_0132.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0111.jpg",
+   "wheat_loose_smut_Bing_0145.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0169.jpg",
+   "wheat_loose_smut_Bing_0043.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0200.jpg",
+   "wheat_loose_smut_Bing_0228.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0236.jpg",
+   "wheat_loose_smut_Bing_0268.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0321.jpg",
+   "wheat_loose_smut_Bing_0384.jpg"
+  ],
+  [
+   "wheat_powdery_mildew_Bing_0066.jpg",
+   "wheat_powdery_mildew_Google_0012.jpg"
+  ],
+  [
+   "wheat_powdery_mildew_Bing_0090.jpg",
+   "wheat_powdery_mildew_Google_0163.jpg"
+  ],
+  [
+   "wheat_septoria_blotch_Bing_0017.jpg",
+   "wheat_septoria_blotch_blotch (70).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_Google_0005.jpg",
+   "wheat_septoria_blotch_google_septoria (1).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_Google_0338.jpg",
+   "wheat_septoria_blotch_google_septoria (25).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_blotch (23).jpg",
+   "wheat_bacterial_leaf_streak_(black_chaff)_Bing_0002.jpg"
+  ],
+  [
+   "wheat_septoria_blotch_blotch (30).jpg",
+   "wheat_septoria_blotch_blotch (96).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_blotch (32).jpg",
+   "wheat_septoria_blotch_blotch (68).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_blotch (41).jpg",
+   "wheat_septoria_blotch_blotch (18).jpg"
+  ],
+  [
+   "wheat_stem_rust_Bing_0001.jpg",
+   "wheat_stem_rust_Bing_0111.jpg"
+  ],
+  [
+   "wheat_stem_rust_Bing_0013.jpg",
+   "wheat_stem_rust_Google_0052.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Baidu_0468.jpg",
+   "wheat_stripe_rust_Baidu_0487.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Bing_0029.jpg",
+   "wheat_stripe_rust_Bing_0081.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Bing_0039.jpg",
+   "wheat_stripe_rust_Bing_0096.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Bing_0048.jpg",
+   "wheat_stripe_rust_Bing_0122.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Bing_0095.jpg",
+   "wheat_stripe_rust_Bing_0037.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Bing_0145.jpg",
+   "wheat_stripe_rust_Google_0009.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Bing_0240.jpg",
+   "wheat_stripe_rust_Bing_0063.jpg"
+  ],
+  [
+   "zucchini_powdery_mildew_Bing_0007.jpg",
+   "zucchini_powdery_mildew_Google_0187.jpg"
+  ],
+  [
+   "zucchini_powdery_mildew_Bing_0281.jpg",
+   "zucchini_powdery_mildew_Bing_0321.jpg"
+  ],
+  [
+   "zucchini_powdery_mildew_Bing_0282.jpg",
+   "zucchini_powdery_mildew_Bing_0322.jpg"
+  ],
+  [
+   "zucchini_powdery_mildew_Bing_0283.jpg",
+   "zucchini_powdery_mildew_Bing_0324.jpg"
+  ],
+  [
+   "zucchini_powdery_mildew_Bing_0298.jpg",
+   "zucchini_powdery_mildew_Bing_0341.jpg"
+  ],
+  [
+   "zucchini_powdery_mildew_Google_0090.jpg",
+   "zucchini_powdery_mildew_Google_0114.jpg"
+  ],
+  [
+   "banana_black_leaf_streak_Bing_0165.jpg",
+   "banana_cordana_leaf_spot_Bing_0097.jpg"
+  ],
+  [
+   "banana_bunchy_top_Bing_0242.jpg",
+   "banana_bunchy_top_Bing_0345.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0014.jpg",
+   "wheat_loose_smut_Google_0002.jpg"
+  ]
+ ],
+ "near_pairs": [
+  {
+   "a": "apple_black_rot_144.jpg",
+   "b": "apple_black_rot_6.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "apple black rot",
+   "cb": "apple black rot"
+  },
+  {
+   "a": "apple_black_rot_18.jpg",
+   "b": "apple_rust_96.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "test",
+   "ca": "apple black rot",
+   "cb": "apple rust"
+  },
+  {
+   "a": "apple_scab_66.jpg",
+   "b": "apple_black_rot_1.jpg",
+   "dist": 2,
+   "pa": "test",
+   "pb": "train",
+   "ca": "apple scab",
+   "cb": "apple black rot"
+  },
+  {
+   "a": "banana_black_leaf_streak_Bing_0015.jpg",
+   "b": "banana_black_leaf_streak_banana black sigatoka (28).jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "test",
+   "ca": "banana black leaf streak",
+   "cb": "banana black leaf streak"
+  },
+  {
+   "a": "banana_black_leaf_streak_banana black sigatoka (42).jpg",
+   "b": "banana_black_leaf_streak_Bing_0029.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "banana black leaf streak",
+   "cb": "banana black leaf streak"
+  },
+  {
+   "a": "banana_bunchy_top_Bing_0152.jpg",
+   "b": "banana_bunchy_top_Bing_0189.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "banana bunchy top",
+   "cb": "banana bunchy top"
+  },
+  {
+   "a": "banana_cigar_end_rot_Bing_0002.jpg",
+   "b": "banana_cigar_end_rot_Google_0010.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "banana cigar end rot",
+   "cb": "banana cigar end rot"
+  },
+  {
+   "a": "banana_cigar_end_rot_Bing_0014.jpg",
+   "b": "banana_cigar_end_rot_Bing_0071.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "banana cigar end rot",
+   "cb": "banana cigar end rot"
+  },
+  {
+   "a": "citrus_canker_107.jpg",
+   "b": "citrus_canker_399.jpg",
+   "dist": 4,
+   "pa": "test",
+   "pb": "train",
+   "ca": "citrus canker",
+   "cb": "citrus canker"
+  },
+  {
+   "a": "citrus_canker_163.jpg",
+   "b": "citrus_canker_288.jpg",
+   "dist": 4,
+   "pa": "test",
+   "pb": "train",
+   "ca": "citrus canker",
+   "cb": "citrus canker"
+  },
+  {
+   "a": "citrus_canker_276.jpg",
+   "b": "citrus_canker_279.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "citrus canker",
+   "cb": "citrus canker"
+  },
+  {
+   "a": "citrus_canker_285.jpg",
+   "b": "citrus_canker_312.jpg",
+   "dist": 2,
+   "pa": "test",
+   "pb": "train",
+   "ca": "citrus canker",
+   "cb": "citrus canker"
+  },
+  {
+   "a": "citrus_canker_90.jpg",
+   "b": "citrus_canker_441.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "val",
+   "ca": "citrus canker",
+   "cb": "citrus canker"
+  },
+  {
+   "a": "potato_early_blight_google_0004.jpg",
+   "b": "potato_early_blight_google_0345.jpg",
+   "dist": 4,
+   "pa": "test",
+   "pb": "val",
+   "ca": "potato early blight",
+   "cb": "potato early blight"
+  },
+  {
+   "a": "potato_early_blight_google_0018.jpg",
+   "b": "potato_early_blight_google_0081.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "potato early blight",
+   "cb": "potato early blight"
+  },
+  {
+   "a": "potato_late_blight_google_0048.jpg",
+   "b": "potato_late_blight_3.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "potato late blight",
+   "cb": "potato late blight"
+  },
+  {
+   "a": "soybean_bacterial_blight_Bing_0049.jpg",
+   "b": "soybean_bacterial_blight_Google_0242.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "soybean bacterial blight",
+   "cb": "soybean bacterial blight"
+  },
+  {
+   "a": "soybean_bacterial_blight_Bing_0055.jpg",
+   "b": "soybean_bacterial_blight_Bing_0166.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "soybean bacterial blight",
+   "cb": "soybean bacterial blight"
+  },
+  {
+   "a": "soybean_bacterial_blight_Bing_0066.jpg",
+   "b": "soybean_bacterial_blight_Google_0022.jpg",
+   "dist": 2,
+   "pa": "test",
+   "pb": "train",
+   "ca": "soybean bacterial blight",
+   "cb": "soybean bacterial blight"
+  },
+  {
+   "a": "soybean_bacterial_blight_Bing_0105.jpg",
+   "b": "soybean_brown_spot_Bing_0046.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "soybean bacterial blight",
+   "cb": "soybean brown spot"
+  },
+  {
+   "a": "soybean_bacterial_blight_Bing_0105.jpg",
+   "b": "soybean_brown_spot_Bing_0070.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "soybean bacterial blight",
+   "cb": "soybean brown spot"
+  },
+  {
+   "a": "soybean_bacterial_blight_Bing_0172.jpg",
+   "b": "soybean_bacterial_blight_Bing_0056.jpg",
+   "dist": 2,
+   "pa": "test",
+   "pb": "train",
+   "ca": "soybean bacterial blight",
+   "cb": "soybean bacterial blight"
+  },
+  {
+   "a": "soybean_brown_spot_Bing_0025.jpg",
+   "b": "soybean_brown_spot_Bing_0042.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "val",
+   "ca": "soybean brown spot",
+   "cb": "soybean brown spot"
+  },
+  {
+   "a": "soybean_brown_spot_Bing_0090.jpg",
+   "b": "soybean_brown_spot_Bing_0021.jpg",
+   "dist": 2,
+   "pa": "test",
+   "pb": "val",
+   "ca": "soybean brown spot",
+   "cb": "soybean brown spot"
+  },
+  {
+   "a": "soybean_downy_mildew_Bing_0023.jpg",
+   "b": "soybean_downy_mildew_Bing_0151.jpg",
+   "dist": 2,
+   "pa": "test",
+   "pb": "train",
+   "ca": "soybean downy mildew",
+   "cb": "soybean downy mildew"
+  },
+  {
+   "a": "soybean_downy_mildew_Bing_0038.jpg",
+   "b": "soybean_downy_mildew_Google_0029.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "soybean downy mildew",
+   "cb": "soybean downy mildew"
+  },
+  {
+   "a": "soybean_downy_mildew_Bing_0045.jpg",
+   "b": "soybean_downy_mildew_Bing_0006.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "soybean downy mildew",
+   "cb": "soybean downy mildew"
+  },
+  {
+   "a": "soybean_downy_mildew_Bing_0045.jpg",
+   "b": "soybean_downy_mildew_Google_0007.jpg",
+   "dist": 2,
+   "pa": "test",
+   "pb": "train",
+   "ca": "soybean downy mildew",
+   "cb": "soybean downy mildew"
+  },
+  {
+   "a": "soybean_downy_mildew_Google_0061.jpg",
+   "b": "soybean_downy_mildew_Bing_0076.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "soybean downy mildew",
+   "cb": "soybean downy mildew"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Baidu_0012.jpg",
+   "b": "soybean_brown_spot_Baidu_0031.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean brown spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Bing_0004.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Bing_0155.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "test",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Bing_0004.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Bing_0039.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Bing_0012.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Google_0135.jpg",
+   "dist": 4,
+   "pa": "test",
+   "pb": "val",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Bing_0089.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Google_0218.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Bing_0095.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Bing_0024.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Bing_0103.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Google_0128.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "test",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Bing_0155.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Bing_0039.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Google_0048.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Bing_0138.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Google_0056.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Bing_0135.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Google_0057.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Bing_0186.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Google_0057.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Bing_0031.jpg",
+   "dist": 2,
+   "pa": "test",
+   "pb": "val",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_mosaic_Bing_0036.jpg",
+   "b": "soybean_mosaic_Bing_0231.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "test",
+   "ca": "soybean mosaic",
+   "cb": "soybean mosaic"
+  },
+  {
+   "a": "soybean_mosaic_Bing_0062.jpg",
+   "b": "soybean_mosaic_Bing_0226.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "val",
+   "ca": "soybean mosaic",
+   "cb": "soybean mosaic"
+  },
+  {
+   "a": "soybean_mosaic_Bing_0112.jpg",
+   "b": "soybean_mosaic_Bing_0140.jpg",
+   "dist": 2,
+   "pa": "test",
+   "pb": "train",
+   "ca": "soybean mosaic",
+   "cb": "soybean mosaic"
+  },
+  {
+   "a": "soybean_rust_Bing_0022.jpg",
+   "b": "soybean_bacterial_blight_Baidu_0033.jpg",
+   "dist": 4,
+   "pa": "test",
+   "pb": "train",
+   "ca": "soybean rust",
+   "cb": "soybean bacterial blight"
+  },
+  {
+   "a": "soybean_rust_Bing_0032.jpg",
+   "b": "soybean_rust_Bing_0053.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "soybean rust",
+   "cb": "soybean rust"
+  },
+  {
+   "a": "soybean_rust_Bing_0055.jpg",
+   "b": "soybean_rust_Bing_0023.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "val",
+   "ca": "soybean rust",
+   "cb": "soybean rust"
+  },
+  {
+   "a": "soybean_rust_Bing_0074.jpg",
+   "b": "soybean_rust_Bing_0014.jpg",
+   "dist": 2,
+   "pa": "test",
+   "pb": "train",
+   "ca": "soybean rust",
+   "cb": "soybean rust"
+  },
+  {
+   "a": "tomato_bacterial_leaf_spot_78.jpg",
+   "b": "tomato_septoria_leaf_spot_174.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "tomato bacterial leaf spot",
+   "cb": "tomato septoria leaf spot"
+  },
+  {
+   "a": "tomato_bacterial_leaf_spot_google_0163.jpg",
+   "b": "tomato_septoria_leaf_spot_google_0052.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "tomato bacterial leaf spot",
+   "cb": "tomato septoria leaf spot"
+  },
+  {
+   "a": "tomato_early_blight_173.jpg",
+   "b": "tomato_early_blight_28.jpg",
+   "dist": 4,
+   "pa": "test",
+   "pb": "val",
+   "ca": "tomato early blight",
+   "cb": "tomato early blight"
+  },
+  {
+   "a": "tomato_early_blight_google_0041.jpg",
+   "b": "potato_early_blight_google_0100.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "val",
+   "ca": "tomato early blight",
+   "cb": "potato early blight"
+  },
+  {
+   "a": "tomato_early_blight_google_0059.jpg",
+   "b": "tomato_septoria_leaf_spot_google_0070.jpg",
+   "dist": 2,
+   "pa": "test",
+   "pb": "test",
+   "ca": "tomato early blight",
+   "cb": "tomato septoria leaf spot"
+  },
+  {
+   "a": "tomato_early_blight_google_0059.jpg",
+   "b": "tomato_early_blight_google_0347.jpg",
+   "dist": 4,
+   "pa": "test",
+   "pb": "train",
+   "ca": "tomato early blight",
+   "cb": "tomato early blight"
+  },
+  {
+   "a": "tomato_early_blight_google_0177.jpg",
+   "b": "tomato_septoria_leaf_spot_google_0081.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "test",
+   "ca": "tomato early blight",
+   "cb": "tomato septoria leaf spot"
+  },
+  {
+   "a": "tomato_early_blight_google_0267.jpg",
+   "b": "potato_early_blight_google_0079.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "tomato early blight",
+   "cb": "potato early blight"
+  },
+  {
+   "a": "tomato_mosaic_virus_143.jpg",
+   "b": "tomato_yellow_leaf_curl_virus_40.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "test",
+   "ca": "tomato mosaic virus",
+   "cb": "tomato yellow leaf curl virus"
+  },
+  {
+   "a": "tomato_mosaic_virus_16.jpg",
+   "b": "tomato_yellow_leaf_curl_virus_62.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "test",
+   "ca": "tomato mosaic virus",
+   "cb": "tomato yellow leaf curl virus"
+  },
+  {
+   "a": "tomato_septoria_leaf_spot_243.jpg",
+   "b": "tomato_early_blight_210.jpg",
+   "dist": 2,
+   "pa": "test",
+   "pb": "train",
+   "ca": "tomato septoria leaf spot",
+   "cb": "tomato early blight"
+  },
+  {
+   "a": "tomato_septoria_leaf_spot_google_0070.jpg",
+   "b": "tomato_early_blight_google_0347.jpg",
+   "dist": 4,
+   "pa": "test",
+   "pb": "train",
+   "ca": "tomato septoria leaf spot",
+   "cb": "tomato early blight"
+  },
+  {
+   "a": "tomato_septoria_leaf_spot_google_0205.jpg",
+   "b": "tomato_early_blight_google_0260.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "tomato septoria leaf spot",
+   "cb": "tomato early blight"
+  },
+  {
+   "a": "tomato_yellow_leaf_curl_virus_4.jpg",
+   "b": "tomato_mosaic_virus_13.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "tomato yellow leaf curl virus",
+   "cb": "tomato mosaic virus"
+  },
+  {
+   "a": "wheat_bacterial_leaf_streak_(black_chaff)_Bing_0004.jpg",
+   "b": "wheat_septoria_blotch_blotch (82).jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat bacterial leaf streak (black chaff)",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_bacterial_leaf_streak_(black_chaff)_Google_0141.jpg",
+   "b": "wheat_septoria_blotch_Google_0212.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "val",
+   "ca": "wheat bacterial leaf streak (black chaff)",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_bacterial_leaf_streak_(black_chaff)_black_chaff (25).jpg",
+   "b": "wheat_stripe_rust_Bing_0130.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat bacterial leaf streak (black chaff)",
+   "cb": "wheat stripe rust"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0065.jpg",
+   "b": "wheat_head_scab_Baidu_0291.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0101.jpg",
+   "b": "wheat_head_scab_Baidu_0185.jpg",
+   "dist": 2,
+   "pa": "test",
+   "pb": "test",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0137.jpg",
+   "b": "wheat_head_scab_Baidu_0297.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "test",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0281.jpg",
+   "b": "wheat_head_scab_Baidu_0403.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0310.jpg",
+   "b": "wheat_head_scab_Baidu_0202.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0310.jpg",
+   "b": "wheat_head_scab_Baidu_0496.jpg",
+   "dist": 2,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0368.jpg",
+   "b": "wheat_head_scab_Baidu_0247.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0404.jpg",
+   "b": "wheat_head_scab_Baidu_0282.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "val",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0431.jpg",
+   "b": "wheat_head_scab_Baidu_0468.jpg",
+   "dist": 2,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Bing_0023.jpg",
+   "b": "wheat_head_scab_Bing_0156.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Bing_0040.jpg",
+   "b": "wheat_head_scab_Bing_0229.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Bing_0043.jpg",
+   "b": "wheat_head_scab_Bing_0109.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Bing_0111.jpg",
+   "b": "wheat_head_scab_Bing_0009.jpg",
+   "dist": 2,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Bing_0206.jpg",
+   "b": "wheat_head_scab_Bing_0014.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Bing_0219.jpg",
+   "b": "wheat_head_scab_Google_0229.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Bing_0287.jpg",
+   "b": "wheat_head_scab_Bing_0319.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "test",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Bing_0287.jpg",
+   "b": "wheat_head_scab_Bing_0269.jpg",
+   "dist": 4,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Bing_0319.jpg",
+   "b": "wheat_head_scab_Bing_0269.jpg",
+   "dist": 4,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Google_0083.jpg",
+   "b": "wheat_head_scab_Bing_0145.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "val",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Google_0309.jpg",
+   "b": "wheat_head_scab_Bing_0214.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_leaf_rust_Google_0040.jpg",
+   "b": "wheat_leaf_rust_Bing_0015.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat leaf rust",
+   "cb": "wheat leaf rust"
+  },
+  {
+   "a": "wheat_leaf_rust_Google_0374.jpg",
+   "b": "wheat_stripe_rust_Google_0123.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat leaf rust",
+   "cb": "wheat stripe rust"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0008.jpg",
+   "b": "wheat_loose_smut_Bing_0104.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0008.jpg",
+   "b": "wheat_loose_smut_Bing_0129.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0097.jpg",
+   "b": "wheat_loose_smut_Bing_0011.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "val",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0176.jpg",
+   "b": "wheat_loose_smut_Bing_0203.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "test",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Google_0065.jpg",
+   "b": "wheat_loose_smut_Bing_0224.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Google_0065.jpg",
+   "b": "wheat_loose_smut_Google_0206.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Google_0081.jpg",
+   "b": "wheat_loose_smut_Bing_0200.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Google_0081.jpg",
+   "b": "wheat_loose_smut_Bing_0228.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_powdery_mildew_Baidu_0049.jpg",
+   "b": "wheat_powdery_mildew_Baidu_0194.jpg",
+   "dist": 4,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat powdery mildew",
+   "cb": "wheat powdery mildew"
+  },
+  {
+   "a": "wheat_powdery_mildew_Bing_0016.jpg",
+   "b": "wheat_powdery_mildew_Google_0051.jpg",
+   "dist": 2,
+   "pa": "test",
+   "pb": "test",
+   "ca": "wheat powdery mildew",
+   "cb": "wheat powdery mildew"
+  },
+  {
+   "a": "wheat_powdery_mildew_Bing_0023.jpg",
+   "b": "wheat_powdery_mildew_Bing_0127.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat powdery mildew",
+   "cb": "wheat powdery mildew"
+  },
+  {
+   "a": "wheat_powdery_mildew_Bing_0023.jpg",
+   "b": "wheat_powdery_mildew_Google_0016.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat powdery mildew",
+   "cb": "wheat powdery mildew"
+  },
+  {
+   "a": "wheat_powdery_mildew_Bing_0163.jpg",
+   "b": "wheat_powdery_mildew_Bing_0059.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat powdery mildew",
+   "cb": "wheat powdery mildew"
+  },
+  {
+   "a": "wheat_powdery_mildew_Bing_0170.jpg",
+   "b": "wheat_powdery_mildew_Bing_0004.jpg",
+   "dist": 4,
+   "pa": "test",
+   "pb": "val",
+   "ca": "wheat powdery mildew",
+   "cb": "wheat powdery mildew"
+  },
+  {
+   "a": "wheat_powdery_mildew_Bing_0214.jpg",
+   "b": "wheat_powdery_mildew_Google_0263.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "test",
+   "ca": "wheat powdery mildew",
+   "cb": "wheat powdery mildew"
+  },
+  {
+   "a": "wheat_powdery_mildew_Google_0101.jpg",
+   "b": "wheat_powdery_mildew_Bing_0106.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat powdery mildew",
+   "cb": "wheat powdery mildew"
+  },
+  {
+   "a": "wheat_septoria_blotch_Bing_0045.jpg",
+   "b": "wheat_septoria_blotch_blotch (105).jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "val",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_septoria_blotch_Google_0016.jpg",
+   "b": "wheat_septoria_blotch_google_septoria (6).jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_septoria_blotch_Google_0058.jpg",
+   "b": "wheat_septoria_blotch_google_septoria (10).jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_septoria_blotch_Google_0174.jpg",
+   "b": "wheat_bacterial_leaf_streak_(black_chaff)_Google_0363.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat bacterial leaf streak (black chaff)"
+  },
+  {
+   "a": "wheat_septoria_blotch_Google_0206.jpg",
+   "b": "wheat_septoria_blotch_google_septoria (13).jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_septoria_blotch_Google_0309.jpg",
+   "b": "wheat_septoria_blotch_blotch (56).jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_septoria_blotch_Google_0309.jpg",
+   "b": "wheat_septoria_blotch_google_septoria (21).jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_septoria_blotch_blotch (10).jpg",
+   "b": "wheat_septoria_blotch_blotch (113).jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "test",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_septoria_blotch_blotch (12).jpg",
+   "b": "wheat_septoria_blotch_blotch (87).jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "test",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_septoria_blotch_blotch (22).jpg",
+   "b": "wheat_bacterial_leaf_streak_(black_chaff)_Bing_0006.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat bacterial leaf streak (black chaff)"
+  },
+  {
+   "a": "wheat_septoria_blotch_blotch (22).jpg",
+   "b": "wheat_septoria_blotch_blotch (100).jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_septoria_blotch_blotch (69).jpg",
+   "b": "wheat_septoria_blotch_blotch (14).jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_septoria_blotch_blotch (79).jpg",
+   "b": "wheat_septoria_blotch_blotch (33).jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_stem_rust_Baidu_0003.jpg",
+   "b": "wheat_stem_rust_Bing_0197.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat stem rust",
+   "cb": "wheat stem rust"
+  },
+  {
+   "a": "wheat_stem_rust_Baidu_0003.jpg",
+   "b": "wheat_stem_rust_Bing_0076.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "val",
+   "ca": "wheat stem rust",
+   "cb": "wheat stem rust"
+  },
+  {
+   "a": "wheat_stem_rust_Bing_0002.jpg",
+   "b": "wheat_stem_rust_Bing_0078.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat stem rust",
+   "cb": "wheat stem rust"
+  },
+  {
+   "a": "wheat_stem_rust_Bing_0002.jpg",
+   "b": "wheat_stem_rust_Bing_0185.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat stem rust",
+   "cb": "wheat stem rust"
+  },
+  {
+   "a": "wheat_stem_rust_Bing_0016.jpg",
+   "b": "wheat_stem_rust_Bing_0136.jpg",
+   "dist": 2,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat stem rust",
+   "cb": "wheat stem rust"
+  },
+  {
+   "a": "wheat_stem_rust_Bing_0040.jpg",
+   "b": "wheat_stem_rust_Google_0035.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat stem rust",
+   "cb": "wheat stem rust"
+  },
+  {
+   "a": "wheat_stem_rust_Bing_0070.jpg",
+   "b": "wheat_stem_rust_Google_0028.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat stem rust",
+   "cb": "wheat stem rust"
+  },
+  {
+   "a": "wheat_stem_rust_Bing_0206.jpg",
+   "b": "wheat_stem_rust_Bing_0013.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat stem rust",
+   "cb": "wheat stem rust"
+  },
+  {
+   "a": "wheat_stem_rust_Bing_0206.jpg",
+   "b": "wheat_stem_rust_Google_0052.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat stem rust",
+   "cb": "wheat stem rust"
+  },
+  {
+   "a": "wheat_stem_rust_Bing_0206.jpg",
+   "b": "wheat_stem_rust_Bing_0007.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "val",
+   "ca": "wheat stem rust",
+   "cb": "wheat stem rust"
+  },
+  {
+   "a": "wheat_stem_rust_Bing_0247.jpg",
+   "b": "wheat_stem_rust_Bing_0167.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat stem rust",
+   "cb": "wheat stem rust"
+  },
+  {
+   "a": "wheat_stem_rust_Google_0071.jpg",
+   "b": "wheat_stem_rust_Bing_0173.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat stem rust",
+   "cb": "wheat stem rust"
+  },
+  {
+   "a": "wheat_stripe_rust_Baidu_0106.jpg",
+   "b": "wheat_stripe_rust_Baidu_0196.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat stripe rust",
+   "cb": "wheat stripe rust"
+  },
+  {
+   "a": "wheat_stripe_rust_Baidu_0120.jpg",
+   "b": "wheat_stripe_rust_Baidu_0456.jpg",
+   "dist": 2,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat stripe rust",
+   "cb": "wheat stripe rust"
+  },
+  {
+   "a": "wheat_stripe_rust_Baidu_0317.jpg",
+   "b": "wheat_stripe_rust_Baidu_0165.jpg",
+   "dist": 2,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat stripe rust",
+   "cb": "wheat stripe rust"
+  },
+  {
+   "a": "wheat_stripe_rust_Baidu_0317.jpg",
+   "b": "wheat_stripe_rust_Baidu_0359.jpg",
+   "dist": 2,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat stripe rust",
+   "cb": "wheat stripe rust"
+  },
+  {
+   "a": "wheat_stripe_rust_Baidu_0484.jpg",
+   "b": "wheat_stripe_rust_Baidu_0027.jpg",
+   "dist": 2,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat stripe rust",
+   "cb": "wheat stripe rust"
+  },
+  {
+   "a": "wheat_stripe_rust_Baidu_0484.jpg",
+   "b": "wheat_stripe_rust_Baidu_0466.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat stripe rust",
+   "cb": "wheat stripe rust"
+  },
+  {
+   "a": "wheat_stripe_rust_Bing_0002.jpg",
+   "b": "wheat_stripe_rust_Google_0045.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "test",
+   "ca": "wheat stripe rust",
+   "cb": "wheat stripe rust"
+  },
+  {
+   "a": "wheat_stripe_rust_Bing_0137.jpg",
+   "b": "wheat_stripe_rust_Bing_0055.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat stripe rust",
+   "cb": "wheat stripe rust"
+  },
+  {
+   "a": "wheat_stripe_rust_Bing_0173.jpg",
+   "b": "wheat_stripe_rust_Bing_0031.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat stripe rust",
+   "cb": "wheat stripe rust"
+  },
+  {
+   "a": "wheat_stripe_rust_Google_0029.jpg",
+   "b": "wheat_stripe_rust_Bing_0006.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat stripe rust",
+   "cb": "wheat stripe rust"
+  },
+  {
+   "a": "wheat_stripe_rust_Google_0223.jpg",
+   "b": "wheat_stripe_rust_Bing_0263.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "wheat stripe rust",
+   "cb": "wheat stripe rust"
+  },
+  {
+   "a": "zucchini_bacterial_wilt_Bing_0019.jpg",
+   "b": "zucchini_bacterial_wilt_Google_0008.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "zucchini bacterial wilt",
+   "cb": "zucchini bacterial wilt"
+  },
+  {
+   "a": "zucchini_powdery_mildew_Bing_0002.jpg",
+   "b": "zucchini_powdery_mildew_Bing_0037.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "zucchini powdery mildew",
+   "cb": "zucchini powdery mildew"
+  },
+  {
+   "a": "zucchini_powdery_mildew_Bing_0004.jpg",
+   "b": "zucchini_powdery_mildew_Bing_0282.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "zucchini powdery mildew",
+   "cb": "zucchini powdery mildew"
+  },
+  {
+   "a": "zucchini_powdery_mildew_Bing_0004.jpg",
+   "b": "zucchini_powdery_mildew_Bing_0322.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "zucchini powdery mildew",
+   "cb": "zucchini powdery mildew"
+  },
+  {
+   "a": "zucchini_powdery_mildew_Bing_0052.jpg",
+   "b": "zucchini_powdery_mildew_Bing_0097.jpg",
+   "dist": 2,
+   "pa": "test",
+   "pb": "train",
+   "ca": "zucchini powdery mildew",
+   "cb": "zucchini powdery mildew"
+  },
+  {
+   "a": "zucchini_powdery_mildew_Bing_0109.jpg",
+   "b": "zucchini_powdery_mildew_Bing_0140.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "zucchini powdery mildew",
+   "cb": "zucchini powdery mildew"
+  },
+  {
+   "a": "zucchini_powdery_mildew_Bing_0109.jpg",
+   "b": "zucchini_powdery_mildew_Bing_0183.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "val",
+   "ca": "zucchini powdery mildew",
+   "cb": "zucchini powdery mildew"
+  },
+  {
+   "a": "zucchini_powdery_mildew_Bing_0289.jpg",
+   "b": "zucchini_powdery_mildew_Bing_0330.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "val",
+   "ca": "zucchini powdery mildew",
+   "cb": "zucchini powdery mildew"
+  },
+  {
+   "a": "zucchini_powdery_mildew_Bing_0336.jpg",
+   "b": "zucchini_powdery_mildew_Bing_0230.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "zucchini powdery mildew",
+   "cb": "zucchini powdery mildew"
+  },
+  {
+   "a": "zucchini_powdery_mildew_Bing_0336.jpg",
+   "b": "zucchini_powdery_mildew_Bing_0357.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "zucchini powdery mildew",
+   "cb": "zucchini powdery mildew"
+  },
+  {
+   "a": "zucchini_powdery_mildew_Bing_0337.jpg",
+   "b": "zucchini_powdery_mildew_Bing_0297.jpg",
+   "dist": 0,
+   "pa": "test",
+   "pb": "train",
+   "ca": "zucchini powdery mildew",
+   "cb": "zucchini powdery mildew"
+  },
+  {
+   "a": "apple_mosaic_virus_google_0001.jpg",
+   "b": "apple_mosaic_virus_google_0013.jpg",
+   "dist": 2,
+   "pa": "train",
+   "pb": "train",
+   "ca": "apple mosaic virus",
+   "cb": "apple mosaic virus"
+  },
+  {
+   "a": "apple_rust_162.jpg",
+   "b": "apple_scab_76.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "apple rust",
+   "cb": "apple scab"
+  },
+  {
+   "a": "apple_rust_30.jpg",
+   "b": "apple_scab_33.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "apple rust",
+   "cb": "apple scab"
+  },
+  {
+   "a": "apple_rust_78.jpg",
+   "b": "apple_scab_65.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "apple rust",
+   "cb": "apple scab"
+  },
+  {
+   "a": "banana_anthracnose_Bing_0023.jpg",
+   "b": "banana_anthracnose_Bing_0075.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "banana anthracnose",
+   "cb": "banana anthracnose"
+  },
+  {
+   "a": "banana_anthracnose_Bing_0035.jpg",
+   "b": "banana_anthracnose_Bing_0068.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "banana anthracnose",
+   "cb": "banana anthracnose"
+  },
+  {
+   "a": "banana_anthracnose_Bing_0065.jpg",
+   "b": "banana_anthracnose_Bing_0300.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "banana anthracnose",
+   "cb": "banana anthracnose"
+  },
+  {
+   "a": "banana_black_leaf_streak_Baidu_0039.jpg",
+   "b": "banana_black_leaf_streak_banana black sigatoka (102).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "banana black leaf streak",
+   "cb": "banana black leaf streak"
+  },
+  {
+   "a": "banana_black_leaf_streak_Baidu_0039.jpg",
+   "b": "banana_panama_disease_5.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "banana black leaf streak",
+   "cb": "banana panama disease"
+  },
+  {
+   "a": "banana_black_leaf_streak_Bing_0003.jpg",
+   "b": "banana_black_leaf_streak_Bing_0073.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "banana black leaf streak",
+   "cb": "banana black leaf streak"
+  },
+  {
+   "a": "banana_black_leaf_streak_Bing_0005.jpg",
+   "b": "banana_black_leaf_streak_banana black sigatoka (30).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "banana black leaf streak",
+   "cb": "banana black leaf streak"
+  },
+  {
+   "a": "banana_black_leaf_streak_Bing_0005.jpg",
+   "b": "banana_black_leaf_streak_banana black sigatoka (34).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "banana black leaf streak",
+   "cb": "banana black leaf streak"
+  },
+  {
+   "a": "banana_black_leaf_streak_Bing_0026.jpg",
+   "b": "banana_black_leaf_streak_banana black sigatoka (52).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "banana black leaf streak",
+   "cb": "banana black leaf streak"
+  },
+  {
+   "a": "banana_black_leaf_streak_Bing_0046.jpg",
+   "b": "banana_black_leaf_streak_banana black sigatoka (7).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "banana black leaf streak",
+   "cb": "banana black leaf streak"
+  },
+  {
+   "a": "banana_black_leaf_streak_Bing_0056.jpg",
+   "b": "banana_black_leaf_streak_banana black sigatoka (9).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "banana black leaf streak",
+   "cb": "banana black leaf streak"
+  },
+  {
+   "a": "banana_black_leaf_streak_Bing_0056.jpg",
+   "b": "banana_black_leaf_streak_banana black sigatoka (55).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "banana black leaf streak",
+   "cb": "banana black leaf streak"
+  },
+  {
+   "a": "banana_black_leaf_streak_Bing_0136.jpg",
+   "b": "banana_cordana_leaf_spot_Bing_0008.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "banana black leaf streak",
+   "cb": "banana cordana leaf spot"
+  },
+  {
+   "a": "banana_black_leaf_streak_banana black sigatoka (102).jpg",
+   "b": "banana_panama_disease_5.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "banana black leaf streak",
+   "cb": "banana panama disease"
+  },
+  {
+   "a": "banana_black_leaf_streak_banana black sigatoka (29).jpg",
+   "b": "banana_black_leaf_streak_banana black sigatoka (6).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "banana black leaf streak",
+   "cb": "banana black leaf streak"
+  },
+  {
+   "a": "banana_black_leaf_streak_banana black sigatoka (30).jpg",
+   "b": "banana_black_leaf_streak_banana black sigatoka (34).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "banana black leaf streak",
+   "cb": "banana black leaf streak"
+  },
+  {
+   "a": "banana_black_leaf_streak_banana black sigatoka (4).jpg",
+   "b": "banana_black_leaf_streak_banana black sigatoka (75).jpg",
+   "dist": 2,
+   "pa": "train",
+   "pb": "train",
+   "ca": "banana black leaf streak",
+   "cb": "banana black leaf streak"
+  },
+  {
+   "a": "banana_black_leaf_streak_banana black sigatoka (9).jpg",
+   "b": "banana_black_leaf_streak_banana black sigatoka (55).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "banana black leaf streak",
+   "cb": "banana black leaf streak"
+  },
+  {
+   "a": "banana_bunchy_top_Bing_0026.jpg",
+   "b": "banana_bunchy_top_Bing_0247.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "banana bunchy top",
+   "cb": "banana bunchy top"
+  },
+  {
+   "a": "banana_bunchy_top_Bing_0045.jpg",
+   "b": "banana_bunchy_top_Google_0031.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "banana bunchy top",
+   "cb": "banana bunchy top"
+  },
+  {
+   "a": "banana_bunchy_top_Bing_0081.jpg",
+   "b": "banana_bunchy_top_Bing_0251.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "banana bunchy top",
+   "cb": "banana bunchy top"
+  },
+  {
+   "a": "banana_bunchy_top_Bing_0095.jpg",
+   "b": "banana_bunchy_top_Google_0026.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "banana bunchy top",
+   "cb": "banana bunchy top"
+  },
+  {
+   "a": "banana_bunchy_top_Bing_0119.jpg",
+   "b": "banana_bunchy_top_Bing_0172.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "banana bunchy top",
+   "cb": "banana bunchy top"
+  },
+  {
+   "a": "banana_bunchy_top_Bing_0141.jpg",
+   "b": "banana_bunchy_top_Bing_0347.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "banana bunchy top",
+   "cb": "banana bunchy top"
+  },
+  {
+   "a": "banana_bunchy_top_Bing_0141.jpg",
+   "b": "banana_bunchy_top_Google_0159.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "banana bunchy top",
+   "cb": "banana bunchy top"
+  },
+  {
+   "a": "banana_bunchy_top_Bing_0245.jpg",
+   "b": "banana_bunchy_top_Bing_0122.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "banana bunchy top",
+   "cb": "banana bunchy top"
+  },
+  {
+   "a": "banana_bunchy_top_Bing_0347.jpg",
+   "b": "banana_bunchy_top_Google_0159.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "banana bunchy top",
+   "cb": "banana bunchy top"
+  },
+  {
+   "a": "banana_cigar_end_rot_Bing_0011.jpg",
+   "b": "banana_cigar_end_rot_Google_0035.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "banana cigar end rot",
+   "cb": "banana cigar end rot"
+  },
+  {
+   "a": "banana_cordana_leaf_spot_Bing_0005.jpg",
+   "b": "banana_cordana_leaf_spot_Google_0014.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "banana cordana leaf spot",
+   "cb": "banana cordana leaf spot"
+  },
+  {
+   "a": "banana_panama_disease_google_0062.jpg",
+   "b": "banana_black_leaf_streak_banana black sigatoka (15).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "banana panama disease",
+   "cb": "banana black leaf streak"
+  },
+  {
+   "a": "citrus_canker_169.jpg",
+   "b": "citrus_canker_233.jpg",
+   "dist": 4,
+   "pa": "train",
+   "pb": "train",
+   "ca": "citrus canker",
+   "cb": "citrus canker"
+  },
+  {
+   "a": "citrus_canker_169.jpg",
+   "b": "citrus_canker_382.jpg",
+   "dist": 2,
+   "pa": "train",
+   "pb": "train",
+   "ca": "citrus canker",
+   "cb": "citrus canker"
+  },
+  {
+   "a": "citrus_canker_169.jpg",
+   "b": "citrus_canker_202.jpg",
+   "dist": 4,
+   "pa": "train",
+   "pb": "val",
+   "ca": "citrus canker",
+   "cb": "citrus canker"
+  },
+  {
+   "a": "citrus_canker_225.jpg",
+   "b": "citrus_canker_google_0037.jpg",
+   "dist": 2,
+   "pa": "train",
+   "pb": "train",
+   "ca": "citrus canker",
+   "cb": "citrus canker"
+  },
+  {
+   "a": "citrus_canker_225.jpg",
+   "b": "citrus_canker_37.jpg",
+   "dist": 2,
+   "pa": "train",
+   "pb": "val",
+   "ca": "citrus canker",
+   "cb": "citrus canker"
+  },
+  {
+   "a": "citrus_canker_233.jpg",
+   "b": "citrus_canker_382.jpg",
+   "dist": 4,
+   "pa": "train",
+   "pb": "train",
+   "ca": "citrus canker",
+   "cb": "citrus canker"
+  },
+  {
+   "a": "citrus_canker_252.jpg",
+   "b": "citrus_canker_59.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "citrus canker",
+   "cb": "citrus canker"
+  },
+  {
+   "a": "citrus_canker_259.jpg",
+   "b": "citrus_canker_33.jpg",
+   "dist": 4,
+   "pa": "train",
+   "pb": "train",
+   "ca": "citrus canker",
+   "cb": "citrus canker"
+  },
+  {
+   "a": "citrus_canker_306.jpg",
+   "b": "citrus_canker_308.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "citrus canker",
+   "cb": "citrus canker"
+  },
+  {
+   "a": "citrus_canker_323.jpg",
+   "b": "citrus_canker_403.jpg",
+   "dist": 4,
+   "pa": "train",
+   "pb": "train",
+   "ca": "citrus canker",
+   "cb": "citrus canker"
+  },
+  {
+   "a": "citrus_canker_323.jpg",
+   "b": "citrus_canker_44.jpg",
+   "dist": 4,
+   "pa": "train",
+   "pb": "train",
+   "ca": "citrus canker",
+   "cb": "citrus canker"
+  },
+  {
+   "a": "citrus_canker_382.jpg",
+   "b": "citrus_canker_202.jpg",
+   "dist": 4,
+   "pa": "train",
+   "pb": "val",
+   "ca": "citrus canker",
+   "cb": "citrus canker"
+  },
+  {
+   "a": "citrus_canker_403.jpg",
+   "b": "citrus_canker_44.jpg",
+   "dist": 4,
+   "pa": "train",
+   "pb": "train",
+   "ca": "citrus canker",
+   "cb": "citrus canker"
+  },
+  {
+   "a": "citrus_canker_412.jpg",
+   "b": "citrus_canker_371.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "citrus canker",
+   "cb": "citrus canker"
+  },
+  {
+   "a": "citrus_canker_google_0037.jpg",
+   "b": "citrus_canker_37.jpg",
+   "dist": 2,
+   "pa": "train",
+   "pb": "val",
+   "ca": "citrus canker",
+   "cb": "citrus canker"
+  },
+  {
+   "a": "potato_early_blight_100.jpg",
+   "b": "potato_early_blight_31.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "potato early blight",
+   "cb": "potato early blight"
+  },
+  {
+   "a": "potato_early_blight_55.jpg",
+   "b": "potato_late_blight_10.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "potato early blight",
+   "cb": "potato late blight"
+  },
+  {
+   "a": "potato_early_blight_google_0005.jpg",
+   "b": "tomato_early_blight_google_0044.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "potato early blight",
+   "cb": "tomato early blight"
+  },
+  {
+   "a": "potato_early_blight_google_0013.jpg",
+   "b": "tomato_early_blight_google_0093.jpg",
+   "dist": 4,
+   "pa": "train",
+   "pb": "train",
+   "ca": "potato early blight",
+   "cb": "tomato early blight"
+  },
+  {
+   "a": "potato_early_blight_google_0055.jpg",
+   "b": "tomato_early_blight_google_0120.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "potato early blight",
+   "cb": "tomato early blight"
+  },
+  {
+   "a": "potato_early_blight_google_0116.jpg",
+   "b": "tomato_early_blight_google_0271.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "potato early blight",
+   "cb": "tomato early blight"
+  },
+  {
+   "a": "potato_early_blight_google_0200.jpg",
+   "b": "tomato_early_blight_google_0343.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "potato early blight",
+   "cb": "tomato early blight"
+  },
+  {
+   "a": "potato_early_blight_google_0284.jpg",
+   "b": "potato_late_blight_google_0035.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "potato early blight",
+   "cb": "potato late blight"
+  },
+  {
+   "a": "soybean_bacterial_blight_Bing_0000.jpg",
+   "b": "soybean_brown_spot_Bing_0051.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean bacterial blight",
+   "cb": "soybean brown spot"
+  },
+  {
+   "a": "soybean_bacterial_blight_Bing_0006.jpg",
+   "b": "soybean_bacterial_blight_Bing_0088.jpg",
+   "dist": 2,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean bacterial blight",
+   "cb": "soybean bacterial blight"
+  },
+  {
+   "a": "soybean_bacterial_blight_Bing_0010.jpg",
+   "b": "soybean_bacterial_blight_Bing_0063.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean bacterial blight",
+   "cb": "soybean bacterial blight"
+  },
+  {
+   "a": "soybean_bacterial_blight_Bing_0031.jpg",
+   "b": "soybean_bacterial_blight_Bing_0099.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean bacterial blight",
+   "cb": "soybean bacterial blight"
+  },
+  {
+   "a": "soybean_bacterial_blight_Bing_0060.jpg",
+   "b": "tomato_bacterial_leaf_spot_google_0324.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean bacterial blight",
+   "cb": "tomato bacterial leaf spot"
+  },
+  {
+   "a": "soybean_bacterial_blight_Bing_0103.jpg",
+   "b": "soybean_brown_spot_Bing_0049.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean bacterial blight",
+   "cb": "soybean brown spot"
+  },
+  {
+   "a": "soybean_bacterial_blight_Bing_0140.jpg",
+   "b": "soybean_bacterial_blight_Bing_0151.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean bacterial blight",
+   "cb": "soybean bacterial blight"
+  },
+  {
+   "a": "soybean_brown_spot_Bing_0014.jpg",
+   "b": "soybean_brown_spot_Bing_0065.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean brown spot",
+   "cb": "soybean brown spot"
+  },
+  {
+   "a": "soybean_brown_spot_Bing_0014.jpg",
+   "b": "soybean_brown_spot_Bing_0317.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean brown spot",
+   "cb": "soybean brown spot"
+  },
+  {
+   "a": "soybean_brown_spot_Bing_0041.jpg",
+   "b": "soybean_bacterial_blight_Bing_0119.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "soybean brown spot",
+   "cb": "soybean bacterial blight"
+  },
+  {
+   "a": "soybean_brown_spot_Bing_0046.jpg",
+   "b": "soybean_brown_spot_Bing_0070.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean brown spot",
+   "cb": "soybean brown spot"
+  },
+  {
+   "a": "soybean_brown_spot_Bing_0065.jpg",
+   "b": "soybean_brown_spot_Bing_0317.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean brown spot",
+   "cb": "soybean brown spot"
+  },
+  {
+   "a": "soybean_brown_spot_Bing_0129.jpg",
+   "b": "soybean_brown_spot_Bing_0161.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean brown spot",
+   "cb": "soybean brown spot"
+  },
+  {
+   "a": "soybean_brown_spot_Bing_0132.jpg",
+   "b": "soybean_brown_spot_Bing_0160.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean brown spot",
+   "cb": "soybean brown spot"
+  },
+  {
+   "a": "soybean_brown_spot_Bing_0241.jpg",
+   "b": "soybean_brown_spot_Bing_0261.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean brown spot",
+   "cb": "soybean brown spot"
+  },
+  {
+   "a": "soybean_downy_mildew_Bing_0006.jpg",
+   "b": "soybean_downy_mildew_Google_0007.jpg",
+   "dist": 2,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean downy mildew",
+   "cb": "soybean downy mildew"
+  },
+  {
+   "a": "soybean_downy_mildew_Bing_0013.jpg",
+   "b": "soybean_downy_mildew_Google_0025.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean downy mildew",
+   "cb": "soybean downy mildew"
+  },
+  {
+   "a": "soybean_downy_mildew_Bing_0020.jpg",
+   "b": "soybean_downy_mildew_Google_0023.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean downy mildew",
+   "cb": "soybean downy mildew"
+  },
+  {
+   "a": "soybean_downy_mildew_Bing_0022.jpg",
+   "b": "soybean_downy_mildew_Bing_0036.jpg",
+   "dist": 2,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean downy mildew",
+   "cb": "soybean downy mildew"
+  },
+  {
+   "a": "soybean_downy_mildew_Bing_0032.jpg",
+   "b": "soybean_downy_mildew_Google_0080.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean downy mildew",
+   "cb": "soybean downy mildew"
+  },
+  {
+   "a": "soybean_downy_mildew_Bing_0033.jpg",
+   "b": "soybean_downy_mildew_Google_0045.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean downy mildew",
+   "cb": "soybean downy mildew"
+  },
+  {
+   "a": "soybean_downy_mildew_Bing_0037.jpg",
+   "b": "soybean_downy_mildew_Bing_0015.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "soybean downy mildew",
+   "cb": "soybean downy mildew"
+  },
+  {
+   "a": "soybean_downy_mildew_Bing_0059.jpg",
+   "b": "soybean_downy_mildew_Bing_0071.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean downy mildew",
+   "cb": "soybean downy mildew"
+  },
+  {
+   "a": "soybean_downy_mildew_Bing_0059.jpg",
+   "b": "soybean_downy_mildew_Google_0090.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean downy mildew",
+   "cb": "soybean downy mildew"
+  },
+  {
+   "a": "soybean_downy_mildew_Bing_0059.jpg",
+   "b": "soybean_downy_mildew_Google_0127.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "soybean downy mildew",
+   "cb": "soybean downy mildew"
+  },
+  {
+   "a": "soybean_downy_mildew_Bing_0065.jpg",
+   "b": "soybean_downy_mildew_Google_0019.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "soybean downy mildew",
+   "cb": "soybean downy mildew"
+  },
+  {
+   "a": "soybean_downy_mildew_Bing_0071.jpg",
+   "b": "soybean_downy_mildew_Google_0090.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean downy mildew",
+   "cb": "soybean downy mildew"
+  },
+  {
+   "a": "soybean_downy_mildew_Bing_0071.jpg",
+   "b": "soybean_downy_mildew_Google_0127.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "soybean downy mildew",
+   "cb": "soybean downy mildew"
+  },
+  {
+   "a": "soybean_downy_mildew_Google_0090.jpg",
+   "b": "soybean_downy_mildew_Google_0127.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "soybean downy mildew",
+   "cb": "soybean downy mildew"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Bing_0018.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Google_0004.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Bing_0018.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Google_0054.jpg",
+   "dist": 2,
+   "pa": "train",
+   "pb": "val",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Bing_0019.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Bing_0165.jpg",
+   "dist": 2,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Bing_0022.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Bing_0079.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Bing_0023.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Bing_0139.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Bing_0044.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Google_0355.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Bing_0046.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Google_0018.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Bing_0051.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Bing_0146.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Bing_0061.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Bing_0159.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Bing_0063.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Google_0031.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Bing_0078.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Google_0073.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Bing_0091.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Google_0149.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Bing_0093.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Google_0284.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Bing_0106.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Bing_0151.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Bing_0144.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Google_0064.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Bing_0172.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Google_0327.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Bing_0178.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Google_0015.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Bing_0184.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Google_0213.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Bing_0186.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Bing_0031.jpg",
+   "dist": 2,
+   "pa": "train",
+   "pb": "val",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "soybean_mosaic_Bing_0015.jpg",
+   "b": "soybean_mosaic_Bing_0044.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean mosaic",
+   "cb": "soybean mosaic"
+  },
+  {
+   "a": "soybean_mosaic_Bing_0102.jpg",
+   "b": "soybean_mosaic_Bing_0219.jpg",
+   "dist": 2,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean mosaic",
+   "cb": "soybean mosaic"
+  },
+  {
+   "a": "soybean_mosaic_Bing_0182.jpg",
+   "b": "soybean_mosaic_Bing_0217.jpg",
+   "dist": 2,
+   "pa": "train",
+   "pb": "val",
+   "ca": "soybean mosaic",
+   "cb": "soybean mosaic"
+  },
+  {
+   "a": "soybean_mosaic_Google_0090.jpg",
+   "b": "soybean_mosaic_Bing_0070.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "soybean mosaic",
+   "cb": "soybean mosaic"
+  },
+  {
+   "a": "soybean_rust_Bing_0068.jpg",
+   "b": "soybean_rust_Bing_0081.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean rust",
+   "cb": "soybean rust"
+  },
+  {
+   "a": "soybean_rust_Bing_0098.jpg",
+   "b": "soybean_rust_Google_0010.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean rust",
+   "cb": "soybean rust"
+  },
+  {
+   "a": "soybean_rust_Bing_0115.jpg",
+   "b": "soybean_rust_Bing_0255.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "soybean rust",
+   "cb": "soybean rust"
+  },
+  {
+   "a": "soybean_rust_Bing_0155.jpg",
+   "b": "soybean_rust_Google_0177.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "soybean rust",
+   "cb": "soybean rust"
+  },
+  {
+   "a": "tomato_bacterial_leaf_spot_google_0017.jpg",
+   "b": "tomato_septoria_leaf_spot_google_0113.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "tomato bacterial leaf spot",
+   "cb": "tomato septoria leaf spot"
+  },
+  {
+   "a": "tomato_bacterial_leaf_spot_google_0091.jpg",
+   "b": "tomato_septoria_leaf_spot_google_0204.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "tomato bacterial leaf spot",
+   "cb": "tomato septoria leaf spot"
+  },
+  {
+   "a": "tomato_early_blight_193.jpg",
+   "b": "tomato_early_blight_47.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "tomato early blight",
+   "cb": "tomato early blight"
+  },
+  {
+   "a": "tomato_early_blight_246.jpg",
+   "b": "potato_early_blight_41.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "tomato early blight",
+   "cb": "potato early blight"
+  },
+  {
+   "a": "tomato_early_blight_google_0076.jpg",
+   "b": "potato_early_blight_google_0048.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "tomato early blight",
+   "cb": "potato early blight"
+  },
+  {
+   "a": "tomato_early_blight_google_0322.jpg",
+   "b": "tomato_septoria_leaf_spot_google_0001.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "tomato early blight",
+   "cb": "tomato septoria leaf spot"
+  },
+  {
+   "a": "tomato_leaf_mold_137.jpg",
+   "b": "tomato_leaf_mold_217.jpg",
+   "dist": 4,
+   "pa": "train",
+   "pb": "train",
+   "ca": "tomato leaf mold",
+   "cb": "tomato leaf mold"
+  },
+  {
+   "a": "tomato_leaf_mold_195.jpg",
+   "b": "tomato_leaf_mold_google_0260.jpg",
+   "dist": 4,
+   "pa": "train",
+   "pb": "train",
+   "ca": "tomato leaf mold",
+   "cb": "tomato leaf mold"
+  },
+  {
+   "a": "tomato_mosaic_virus_2.jpg",
+   "b": "tomato_yellow_leaf_curl_virus_1.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "tomato mosaic virus",
+   "cb": "tomato yellow leaf curl virus"
+  },
+  {
+   "a": "tomato_septoria_leaf_spot_6.jpg",
+   "b": "tomato_bacterial_leaf_spot_28.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "tomato septoria leaf spot",
+   "cb": "tomato bacterial leaf spot"
+  },
+  {
+   "a": "tomato_yellow_leaf_curl_virus_11.jpg",
+   "b": "tomato_mosaic_virus_1.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "tomato yellow leaf curl virus",
+   "cb": "tomato mosaic virus"
+  },
+  {
+   "a": "wheat_bacterial_leaf_streak_(black_chaff)_Bing_0006.jpg",
+   "b": "wheat_septoria_blotch_blotch (100).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat bacterial leaf streak (black chaff)",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_bacterial_leaf_streak_(black_chaff)_black_chaff (1).jpg",
+   "b": "wheat_bacterial_leaf_streak_(black_chaff)_black_chaff (26).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat bacterial leaf streak (black chaff)",
+   "cb": "wheat bacterial leaf streak (black chaff)"
+  },
+  {
+   "a": "wheat_bacterial_leaf_streak_(black_chaff)_black_chaff (6).jpg",
+   "b": "wheat_bacterial_leaf_streak_(black_chaff)_black_chaff (27).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat bacterial leaf streak (black chaff)",
+   "cb": "wheat bacterial leaf streak (black chaff)"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0030.jpg",
+   "b": "wheat_head_scab_Baidu_0321.jpg",
+   "dist": 4,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0058.jpg",
+   "b": "wheat_head_scab_Baidu_0192.jpg",
+   "dist": 4,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0058.jpg",
+   "b": "wheat_head_scab_Baidu_0215.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0058.jpg",
+   "b": "wheat_head_scab_Baidu_0289.jpg",
+   "dist": 4,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0058.jpg",
+   "b": "wheat_head_scab_Baidu_0322.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0085.jpg",
+   "b": "wheat_head_scab_Baidu_0298.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0091.jpg",
+   "b": "wheat_head_scab_Baidu_0094.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0092.jpg",
+   "b": "wheat_head_scab_Baidu_0095.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0131.jpg",
+   "b": "wheat_head_scab_Baidu_0364.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0176.jpg",
+   "b": "wheat_head_scab_Baidu_0369.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0192.jpg",
+   "b": "wheat_head_scab_Baidu_0215.jpg",
+   "dist": 4,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0192.jpg",
+   "b": "wheat_head_scab_Baidu_0289.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0192.jpg",
+   "b": "wheat_head_scab_Baidu_0322.jpg",
+   "dist": 4,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0194.jpg",
+   "b": "wheat_head_scab_Baidu_0296.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0197.jpg",
+   "b": "wheat_head_scab_Baidu_0303.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0202.jpg",
+   "b": "wheat_head_scab_Baidu_0496.jpg",
+   "dist": 2,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0215.jpg",
+   "b": "wheat_head_scab_Baidu_0289.jpg",
+   "dist": 4,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0215.jpg",
+   "b": "wheat_head_scab_Baidu_0322.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0254.jpg",
+   "b": "wheat_head_scab_Baidu_0380.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0257.jpg",
+   "b": "wheat_head_scab_Baidu_0383.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0271.jpg",
+   "b": "wheat_head_scab_Baidu_0394.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0276.jpg",
+   "b": "wheat_head_scab_Baidu_0399.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0289.jpg",
+   "b": "wheat_head_scab_Baidu_0322.jpg",
+   "dist": 4,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Baidu_0344.jpg",
+   "b": "wheat_head_scab_Baidu_0231.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Bing_0001.jpg",
+   "b": "wheat_head_scab_Bing_0126.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Bing_0002.jpg",
+   "b": "wheat_head_scab_Bing_0100.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Bing_0002.jpg",
+   "b": "wheat_head_scab_Google_0105.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Bing_0007.jpg",
+   "b": "wheat_head_scab_Google_0331.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Bing_0008.jpg",
+   "b": "wheat_head_scab_Bing_0202.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Bing_0008.jpg",
+   "b": "wheat_head_scab_Google_0259.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Bing_0036.jpg",
+   "b": "wheat_head_scab_Bing_0144.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Bing_0067.jpg",
+   "b": "wheat_head_scab_Bing_0132.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Bing_0100.jpg",
+   "b": "wheat_head_scab_Google_0105.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Bing_0175.jpg",
+   "b": "wheat_head_scab_Google_0196.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Bing_0202.jpg",
+   "b": "wheat_head_scab_Google_0259.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_head_scab_Google_0129.jpg",
+   "b": "wheat_loose_smut_Google_0377.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat head scab",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_leaf_rust_Baidu_0081.jpg",
+   "b": "wheat_leaf_rust_Baidu_0233.jpg",
+   "dist": 4,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat leaf rust",
+   "cb": "wheat leaf rust"
+  },
+  {
+   "a": "wheat_leaf_rust_Baidu_0112.jpg",
+   "b": "wheat_septoria_blotch_blotch (126).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat leaf rust",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_leaf_rust_Bing_0001.jpg",
+   "b": "wheat_leaf_rust_Google_0000.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat leaf rust",
+   "cb": "wheat leaf rust"
+  },
+  {
+   "a": "wheat_leaf_rust_Bing_0009.jpg",
+   "b": "wheat_stripe_rust_Bing_0028.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat leaf rust",
+   "cb": "wheat stripe rust"
+  },
+  {
+   "a": "wheat_leaf_rust_Bing_0051.jpg",
+   "b": "wheat_leaf_rust_Google_0263.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat leaf rust",
+   "cb": "wheat leaf rust"
+  },
+  {
+   "a": "wheat_leaf_rust_Bing_0058.jpg",
+   "b": "wheat_leaf_rust_Google_0044.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat leaf rust",
+   "cb": "wheat leaf rust"
+  },
+  {
+   "a": "wheat_leaf_rust_Google_0066.jpg",
+   "b": "wheat_stripe_rust_Google_0147.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat leaf rust",
+   "cb": "wheat stripe rust"
+  },
+  {
+   "a": "wheat_leaf_rust_Google_0355.jpg",
+   "b": "wheat_stripe_rust_Bing_0247.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat leaf rust",
+   "cb": "wheat stripe rust"
+  },
+  {
+   "a": "wheat_loose_smut_Baidu_0042.jpg",
+   "b": "wheat_loose_smut_Bing_0127.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0001.jpg",
+   "b": "wheat_loose_smut_Bing_0141.jpg",
+   "dist": 2,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0001.jpg",
+   "b": "wheat_loose_smut_Google_0040.jpg",
+   "dist": 2,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0006.jpg",
+   "b": "wheat_loose_smut_Bing_0323.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0013.jpg",
+   "b": "wheat_loose_smut_Bing_0139.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0015.jpg",
+   "b": "wheat_loose_smut_Google_0041.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0023.jpg",
+   "b": "wheat_loose_smut_Bing_0192.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0025.jpg",
+   "b": "wheat_loose_smut_Google_0061.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0033.jpg",
+   "b": "wheat_loose_smut_Bing_0093.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0047.jpg",
+   "b": "wheat_loose_smut_Bing_0126.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0077.jpg",
+   "b": "wheat_loose_smut_Bing_0197.jpg",
+   "dist": 2,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0077.jpg",
+   "b": "wheat_loose_smut_Google_0007.jpg",
+   "dist": 2,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0077.jpg",
+   "b": "wheat_loose_smut_Bing_0000.jpg",
+   "dist": 2,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0079.jpg",
+   "b": "wheat_loose_smut_Bing_0100.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0091.jpg",
+   "b": "wheat_loose_smut_Google_0132.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0104.jpg",
+   "b": "wheat_loose_smut_Bing_0129.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0111.jpg",
+   "b": "wheat_loose_smut_Bing_0145.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0121.jpg",
+   "b": "wheat_loose_smut_Google_0062.jpg",
+   "dist": 2,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0141.jpg",
+   "b": "wheat_loose_smut_Google_0040.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0169.jpg",
+   "b": "wheat_loose_smut_Bing_0043.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0197.jpg",
+   "b": "wheat_loose_smut_Google_0007.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0197.jpg",
+   "b": "wheat_loose_smut_Bing_0000.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0200.jpg",
+   "b": "wheat_loose_smut_Bing_0228.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0224.jpg",
+   "b": "wheat_loose_smut_Google_0206.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0236.jpg",
+   "b": "wheat_loose_smut_Bing_0268.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0321.jpg",
+   "b": "wheat_loose_smut_Bing_0384.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_loose_smut_Google_0007.jpg",
+   "b": "wheat_loose_smut_Bing_0000.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_powdery_mildew_Baidu_0178.jpg",
+   "b": "wheat_powdery_mildew_Baidu_0022.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat powdery mildew",
+   "cb": "wheat powdery mildew"
+  },
+  {
+   "a": "wheat_powdery_mildew_Baidu_0186.jpg",
+   "b": "wheat_powdery_mildew_Baidu_0000.jpg",
+   "dist": 2,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat powdery mildew",
+   "cb": "wheat powdery mildew"
+  },
+  {
+   "a": "wheat_powdery_mildew_Bing_0011.jpg",
+   "b": "wheat_powdery_mildew_Bing_0083.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat powdery mildew",
+   "cb": "wheat powdery mildew"
+  },
+  {
+   "a": "wheat_powdery_mildew_Bing_0021.jpg",
+   "b": "wheat_powdery_mildew_Bing_0096.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat powdery mildew",
+   "cb": "wheat powdery mildew"
+  },
+  {
+   "a": "wheat_powdery_mildew_Bing_0066.jpg",
+   "b": "wheat_powdery_mildew_Google_0012.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat powdery mildew",
+   "cb": "wheat powdery mildew"
+  },
+  {
+   "a": "wheat_powdery_mildew_Bing_0090.jpg",
+   "b": "wheat_powdery_mildew_Google_0163.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat powdery mildew",
+   "cb": "wheat powdery mildew"
+  },
+  {
+   "a": "wheat_powdery_mildew_Bing_0127.jpg",
+   "b": "wheat_powdery_mildew_Google_0016.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat powdery mildew",
+   "cb": "wheat powdery mildew"
+  },
+  {
+   "a": "wheat_powdery_mildew_Bing_0136.jpg",
+   "b": "wheat_powdery_mildew_Bing_0172.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat powdery mildew",
+   "cb": "wheat powdery mildew"
+  },
+  {
+   "a": "wheat_septoria_blotch_Bing_0017.jpg",
+   "b": "wheat_septoria_blotch_blotch (70).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_septoria_blotch_Bing_0031.jpg",
+   "b": "wheat_septoria_blotch_blotch (20).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_septoria_blotch_Bing_0043.jpg",
+   "b": "wheat_septoria_blotch_blotch (42).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_septoria_blotch_Bing_0043.jpg",
+   "b": "wheat_septoria_blotch_google_septoria (5).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_septoria_blotch_Bing_0047.jpg",
+   "b": "wheat_septoria_blotch_blotch (77).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_septoria_blotch_Google_0005.jpg",
+   "b": "wheat_septoria_blotch_google_septoria (1).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_septoria_blotch_Google_0272.jpg",
+   "b": "wheat_septoria_blotch_blotch (6).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_septoria_blotch_Google_0338.jpg",
+   "b": "wheat_septoria_blotch_google_septoria (25).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_septoria_blotch_blotch (23).jpg",
+   "b": "wheat_bacterial_leaf_streak_(black_chaff)_Bing_0002.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat bacterial leaf streak (black chaff)"
+  },
+  {
+   "a": "wheat_septoria_blotch_blotch (30).jpg",
+   "b": "wheat_septoria_blotch_blotch (96).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_septoria_blotch_blotch (32).jpg",
+   "b": "wheat_septoria_blotch_blotch (68).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_septoria_blotch_blotch (41).jpg",
+   "b": "wheat_septoria_blotch_blotch (18).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_septoria_blotch_blotch (42).jpg",
+   "b": "wheat_septoria_blotch_google_septoria (5).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_septoria_blotch_blotch (56).jpg",
+   "b": "wheat_septoria_blotch_google_septoria (21).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_septoria_blotch_blotch (62).jpg",
+   "b": "wheat_septoria_blotch_blotch (8).jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_septoria_blotch_blotch (66).jpg",
+   "b": "wheat_septoria_blotch_blotch (16).jpg",
+   "dist": 2,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_septoria_blotch_blotch (73).jpg",
+   "b": "wheat_septoria_blotch_blotch (55).jpg",
+   "dist": 2,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat septoria blotch",
+   "cb": "wheat septoria blotch"
+  },
+  {
+   "a": "wheat_stem_rust_Bing_0001.jpg",
+   "b": "wheat_stem_rust_Bing_0111.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat stem rust",
+   "cb": "wheat stem rust"
+  },
+  {
+   "a": "wheat_stem_rust_Bing_0013.jpg",
+   "b": "wheat_stem_rust_Google_0052.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat stem rust",
+   "cb": "wheat stem rust"
+  },
+  {
+   "a": "wheat_stem_rust_Bing_0013.jpg",
+   "b": "wheat_stem_rust_Bing_0007.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat stem rust",
+   "cb": "wheat stem rust"
+  },
+  {
+   "a": "wheat_stem_rust_Bing_0027.jpg",
+   "b": "wheat_stem_rust_Bing_0274.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat stem rust",
+   "cb": "wheat stem rust"
+  },
+  {
+   "a": "wheat_stem_rust_Bing_0046.jpg",
+   "b": "wheat_stem_rust_Bing_0104.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat stem rust",
+   "cb": "wheat stem rust"
+  },
+  {
+   "a": "wheat_stem_rust_Bing_0065.jpg",
+   "b": "wheat_stem_rust_Google_0312.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat stem rust",
+   "cb": "wheat stem rust"
+  },
+  {
+   "a": "wheat_stem_rust_Bing_0078.jpg",
+   "b": "wheat_stem_rust_Bing_0185.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat stem rust",
+   "cb": "wheat stem rust"
+  },
+  {
+   "a": "wheat_stem_rust_Bing_0139.jpg",
+   "b": "wheat_stem_rust_Bing_0169.jpg",
+   "dist": 2,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat stem rust",
+   "cb": "wheat stem rust"
+  },
+  {
+   "a": "wheat_stem_rust_Bing_0197.jpg",
+   "b": "wheat_stem_rust_Bing_0076.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat stem rust",
+   "cb": "wheat stem rust"
+  },
+  {
+   "a": "wheat_stem_rust_Google_0052.jpg",
+   "b": "wheat_stem_rust_Bing_0007.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat stem rust",
+   "cb": "wheat stem rust"
+  },
+  {
+   "a": "wheat_stripe_rust_Baidu_0027.jpg",
+   "b": "wheat_stripe_rust_Baidu_0466.jpg",
+   "dist": 2,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat stripe rust",
+   "cb": "wheat stripe rust"
+  },
+  {
+   "a": "wheat_stripe_rust_Baidu_0165.jpg",
+   "b": "wheat_stripe_rust_Baidu_0359.jpg",
+   "dist": 2,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat stripe rust",
+   "cb": "wheat stripe rust"
+  },
+  {
+   "a": "wheat_stripe_rust_Baidu_0468.jpg",
+   "b": "wheat_stripe_rust_Baidu_0487.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat stripe rust",
+   "cb": "wheat stripe rust"
+  },
+  {
+   "a": "wheat_stripe_rust_Bing_0001.jpg",
+   "b": "wheat_stripe_rust_Bing_0082.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat stripe rust",
+   "cb": "wheat stripe rust"
+  },
+  {
+   "a": "wheat_stripe_rust_Bing_0029.jpg",
+   "b": "wheat_stripe_rust_Bing_0081.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat stripe rust",
+   "cb": "wheat stripe rust"
+  },
+  {
+   "a": "wheat_stripe_rust_Bing_0039.jpg",
+   "b": "wheat_stripe_rust_Bing_0096.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat stripe rust",
+   "cb": "wheat stripe rust"
+  },
+  {
+   "a": "wheat_stripe_rust_Bing_0048.jpg",
+   "b": "wheat_stripe_rust_Bing_0122.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat stripe rust",
+   "cb": "wheat stripe rust"
+  },
+  {
+   "a": "wheat_stripe_rust_Bing_0079.jpg",
+   "b": "wheat_stripe_rust_Google_0311.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat stripe rust",
+   "cb": "wheat stripe rust"
+  },
+  {
+   "a": "wheat_stripe_rust_Bing_0095.jpg",
+   "b": "wheat_stripe_rust_Bing_0037.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat stripe rust",
+   "cb": "wheat stripe rust"
+  },
+  {
+   "a": "wheat_stripe_rust_Bing_0145.jpg",
+   "b": "wheat_stripe_rust_Google_0009.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "wheat stripe rust",
+   "cb": "wheat stripe rust"
+  },
+  {
+   "a": "wheat_stripe_rust_Bing_0240.jpg",
+   "b": "wheat_stripe_rust_Bing_0063.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat stripe rust",
+   "cb": "wheat stripe rust"
+  },
+  {
+   "a": "wheat_stripe_rust_Google_0010.jpg",
+   "b": "wheat_stripe_rust_Bing_0094.jpg",
+   "dist": 4,
+   "pa": "train",
+   "pb": "val",
+   "ca": "wheat stripe rust",
+   "cb": "wheat stripe rust"
+  },
+  {
+   "a": "zucchini_downy_mildew_Bing_0007.jpg",
+   "b": "zucchini_downy_mildew_Bing_0078.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "zucchini downy mildew",
+   "cb": "zucchini downy mildew"
+  },
+  {
+   "a": "zucchini_downy_mildew_Bing_0143.jpg",
+   "b": "zucchini_downy_mildew_Bing_0210.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "zucchini downy mildew",
+   "cb": "zucchini downy mildew"
+  },
+  {
+   "a": "zucchini_powdery_mildew_Bing_0000.jpg",
+   "b": "zucchini_powdery_mildew_Bing_0073.jpg",
+   "dist": 2,
+   "pa": "train",
+   "pb": "train",
+   "ca": "zucchini powdery mildew",
+   "cb": "zucchini powdery mildew"
+  },
+  {
+   "a": "zucchini_powdery_mildew_Bing_0007.jpg",
+   "b": "zucchini_powdery_mildew_Google_0187.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "zucchini powdery mildew",
+   "cb": "zucchini powdery mildew"
+  },
+  {
+   "a": "zucchini_powdery_mildew_Bing_0036.jpg",
+   "b": "zucchini_powdery_mildew_Bing_0015.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "zucchini powdery mildew",
+   "cb": "zucchini powdery mildew"
+  },
+  {
+   "a": "zucchini_powdery_mildew_Bing_0053.jpg",
+   "b": "zucchini_powdery_mildew_Bing_0096.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "zucchini powdery mildew",
+   "cb": "zucchini powdery mildew"
+  },
+  {
+   "a": "zucchini_powdery_mildew_Bing_0062.jpg",
+   "b": "zucchini_powdery_mildew_Bing_0083.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "zucchini powdery mildew",
+   "cb": "zucchini powdery mildew"
+  },
+  {
+   "a": "zucchini_powdery_mildew_Bing_0075.jpg",
+   "b": "zucchini_powdery_mildew_Bing_0203.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "zucchini powdery mildew",
+   "cb": "zucchini powdery mildew"
+  },
+  {
+   "a": "zucchini_powdery_mildew_Bing_0112.jpg",
+   "b": "zucchini_powdery_mildew_Bing_0143.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "zucchini powdery mildew",
+   "cb": "zucchini powdery mildew"
+  },
+  {
+   "a": "zucchini_powdery_mildew_Bing_0140.jpg",
+   "b": "zucchini_powdery_mildew_Bing_0183.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "zucchini powdery mildew",
+   "cb": "zucchini powdery mildew"
+  },
+  {
+   "a": "zucchini_powdery_mildew_Bing_0230.jpg",
+   "b": "zucchini_powdery_mildew_Bing_0357.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "zucchini powdery mildew",
+   "cb": "zucchini powdery mildew"
+  },
+  {
+   "a": "zucchini_powdery_mildew_Bing_0281.jpg",
+   "b": "zucchini_powdery_mildew_Bing_0321.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "zucchini powdery mildew",
+   "cb": "zucchini powdery mildew"
+  },
+  {
+   "a": "zucchini_powdery_mildew_Bing_0282.jpg",
+   "b": "zucchini_powdery_mildew_Bing_0322.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "zucchini powdery mildew",
+   "cb": "zucchini powdery mildew"
+  },
+  {
+   "a": "zucchini_powdery_mildew_Bing_0283.jpg",
+   "b": "zucchini_powdery_mildew_Bing_0324.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "zucchini powdery mildew",
+   "cb": "zucchini powdery mildew"
+  },
+  {
+   "a": "zucchini_powdery_mildew_Bing_0298.jpg",
+   "b": "zucchini_powdery_mildew_Bing_0341.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "train",
+   "ca": "zucchini powdery mildew",
+   "cb": "zucchini powdery mildew"
+  },
+  {
+   "a": "zucchini_powdery_mildew_Google_0090.jpg",
+   "b": "zucchini_powdery_mildew_Google_0114.jpg",
+   "dist": 0,
+   "pa": "train",
+   "pb": "val",
+   "ca": "zucchini powdery mildew",
+   "cb": "zucchini powdery mildew"
+  },
+  {
+   "a": "zucchini_yellow_mosaic_virus_116.jpg",
+   "b": "zucchini_yellow_mosaic_virus_224.jpg",
+   "dist": 4,
+   "pa": "train",
+   "pb": "train",
+   "ca": "zucchini yellow mosaic virus",
+   "cb": "zucchini yellow mosaic virus"
+  },
+  {
+   "a": "banana_black_leaf_streak_Bing_0165.jpg",
+   "b": "banana_cordana_leaf_spot_Bing_0097.jpg",
+   "dist": 0,
+   "pa": "val",
+   "pb": "val",
+   "ca": "banana black leaf streak",
+   "cb": "banana cordana leaf spot"
+  },
+  {
+   "a": "banana_bunchy_top_Bing_0242.jpg",
+   "b": "banana_bunchy_top_Bing_0345.jpg",
+   "dist": 0,
+   "pa": "val",
+   "pb": "val",
+   "ca": "banana bunchy top",
+   "cb": "banana bunchy top"
+  },
+  {
+   "a": "soybean_bacterial_blight_Bing_0017.jpg",
+   "b": "soybean_bacterial_blight_Bing_0106.jpg",
+   "dist": 0,
+   "pa": "val",
+   "pb": "val",
+   "ca": "soybean bacterial blight",
+   "cb": "soybean bacterial blight"
+  },
+  {
+   "a": "soybean_frog_eye_leaf_spot_Google_0004.jpg",
+   "b": "soybean_frog_eye_leaf_spot_Google_0054.jpg",
+   "dist": 2,
+   "pa": "val",
+   "pb": "val",
+   "ca": "soybean frog eye leaf spot",
+   "cb": "soybean frog eye leaf spot"
+  },
+  {
+   "a": "wheat_head_scab_Bing_0004.jpg",
+   "b": "wheat_head_scab_Bing_0095.jpg",
+   "dist": 0,
+   "pa": "val",
+   "pb": "val",
+   "ca": "wheat head scab",
+   "cb": "wheat head scab"
+  },
+  {
+   "a": "wheat_loose_smut_Bing_0014.jpg",
+   "b": "wheat_loose_smut_Google_0002.jpg",
+   "dist": 0,
+   "pa": "val",
+   "pb": "val",
+   "ca": "wheat loose smut",
+   "cb": "wheat loose smut"
+  },
+  {
+   "a": "wheat_stem_rust_Bing_0048.jpg",
+   "b": "wheat_stem_rust_Bing_0124.jpg",
+   "dist": 0,
+   "pa": "val",
+   "pb": "val",
+   "ca": "wheat stem rust",
+   "cb": "wheat stem rust"
+  }
+ ],
+ "duplicate_groups": [
+  [
+   "banana_black_leaf_streak_Bing_0015.jpg",
+   "banana_black_leaf_streak_banana black sigatoka (28).jpg"
+  ],
+  [
+   "banana_bunchy_top_Bing_0152.jpg",
+   "banana_bunchy_top_Bing_0189.jpg"
+  ],
+  [
+   "banana_cigar_end_rot_Bing_0002.jpg",
+   "banana_cigar_end_rot_Google_0010.jpg"
+  ],
+  [
+   "citrus_canker_276.jpg",
+   "citrus_canker_279.jpg"
+  ],
+  [
+   "soybean_bacterial_blight_Bing_0105.jpg",
+   "soybean_brown_spot_Bing_0046.jpg",
+   "soybean_brown_spot_Bing_0070.jpg"
+  ],
+  [
+   "soybean_brown_spot_Bing_0025.jpg",
+   "soybean_brown_spot_Bing_0042.jpg"
+  ],
+  [
+   "soybean_downy_mildew_Bing_0076.jpg",
+   "soybean_downy_mildew_Google_0061.jpg"
+  ],
+  [
+   "soybean_brown_spot_Baidu_0031.jpg",
+   "soybean_frog_eye_leaf_spot_Baidu_0012.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0004.jpg",
+   "soybean_frog_eye_leaf_spot_Bing_0039.jpg",
+   "soybean_frog_eye_leaf_spot_Bing_0155.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0089.jpg",
+   "soybean_frog_eye_leaf_spot_Google_0218.jpg"
+  ],
+  [
+   "tomato_bacterial_leaf_spot_google_0163.jpg",
+   "tomato_septoria_leaf_spot_google_0052.jpg"
+  ],
+  [
+   "potato_early_blight_google_0100.jpg",
+   "tomato_early_blight_google_0041.jpg"
+  ],
+  [
+   "tomato_early_blight_google_0177.jpg",
+   "tomato_septoria_leaf_spot_google_0081.jpg"
+  ],
+  [
+   "tomato_mosaic_virus_143.jpg",
+   "tomato_yellow_leaf_curl_virus_40.jpg"
+  ],
+  [
+   "tomato_early_blight_google_0260.jpg",
+   "tomato_septoria_leaf_spot_google_0205.jpg"
+  ],
+  [
+   "tomato_mosaic_virus_13.jpg",
+   "tomato_yellow_leaf_curl_virus_4.jpg"
+  ],
+  [
+   "wheat_bacterial_leaf_streak_(black_chaff)_Google_0141.jpg",
+   "wheat_septoria_blotch_Google_0212.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0065.jpg",
+   "wheat_head_scab_Baidu_0291.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0137.jpg",
+   "wheat_head_scab_Baidu_0297.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0281.jpg",
+   "wheat_head_scab_Baidu_0403.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0202.jpg",
+   "wheat_head_scab_Baidu_0310.jpg",
+   "wheat_head_scab_Baidu_0496.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0247.jpg",
+   "wheat_head_scab_Baidu_0368.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0282.jpg",
+   "wheat_head_scab_Baidu_0404.jpg"
+  ],
+  [
+   "wheat_head_scab_Bing_0023.jpg",
+   "wheat_head_scab_Bing_0156.jpg"
+  ],
+  [
+   "wheat_head_scab_Bing_0040.jpg",
+   "wheat_head_scab_Bing_0229.jpg"
+  ],
+  [
+   "wheat_head_scab_Bing_0043.jpg",
+   "wheat_head_scab_Bing_0109.jpg"
+  ],
+  [
+   "wheat_head_scab_Bing_0014.jpg",
+   "wheat_head_scab_Bing_0206.jpg"
+  ],
+  [
+   "wheat_head_scab_Bing_0219.jpg",
+   "wheat_head_scab_Google_0229.jpg"
+  ],
+  [
+   "wheat_head_scab_Bing_0145.jpg",
+   "wheat_head_scab_Google_0083.jpg"
+  ],
+  [
+   "wheat_leaf_rust_Google_0374.jpg",
+   "wheat_stripe_rust_Google_0123.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0008.jpg",
+   "wheat_loose_smut_Bing_0104.jpg",
+   "wheat_loose_smut_Bing_0129.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0176.jpg",
+   "wheat_loose_smut_Bing_0203.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0224.jpg",
+   "wheat_loose_smut_Google_0065.jpg",
+   "wheat_loose_smut_Google_0206.jpg"
+  ],
+  [
+   "wheat_powdery_mildew_Bing_0059.jpg",
+   "wheat_powdery_mildew_Bing_0163.jpg"
+  ],
+  [
+   "wheat_septoria_blotch_Bing_0045.jpg",
+   "wheat_septoria_blotch_blotch (105).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_Google_0016.jpg",
+   "wheat_septoria_blotch_google_septoria (6).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_Google_0058.jpg",
+   "wheat_septoria_blotch_google_septoria (10).jpg"
+  ],
+  [
+   "wheat_bacterial_leaf_streak_(black_chaff)_Google_0363.jpg",
+   "wheat_septoria_blotch_Google_0174.jpg"
+  ],
+  [
+   "wheat_septoria_blotch_Google_0206.jpg",
+   "wheat_septoria_blotch_google_septoria (13).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_Google_0309.jpg",
+   "wheat_septoria_blotch_blotch (56).jpg",
+   "wheat_septoria_blotch_google_septoria (21).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_blotch (10).jpg",
+   "wheat_septoria_blotch_blotch (113).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_blotch (12).jpg",
+   "wheat_septoria_blotch_blotch (87).jpg"
+  ],
+  [
+   "wheat_bacterial_leaf_streak_(black_chaff)_Bing_0006.jpg",
+   "wheat_septoria_blotch_blotch (100).jpg",
+   "wheat_septoria_blotch_blotch (22).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_blotch (14).jpg",
+   "wheat_septoria_blotch_blotch (69).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_blotch (33).jpg",
+   "wheat_septoria_blotch_blotch (79).jpg"
+  ],
+  [
+   "wheat_stem_rust_Bing_0002.jpg",
+   "wheat_stem_rust_Bing_0078.jpg",
+   "wheat_stem_rust_Bing_0185.jpg"
+  ],
+  [
+   "wheat_stem_rust_Bing_0040.jpg",
+   "wheat_stem_rust_Google_0035.jpg"
+  ],
+  [
+   "wheat_stem_rust_Bing_0070.jpg",
+   "wheat_stem_rust_Google_0028.jpg"
+  ],
+  [
+   "wheat_stem_rust_Bing_0167.jpg",
+   "wheat_stem_rust_Bing_0247.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Baidu_0106.jpg",
+   "wheat_stripe_rust_Baidu_0196.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Baidu_0027.jpg",
+   "wheat_stripe_rust_Baidu_0466.jpg",
+   "wheat_stripe_rust_Baidu_0484.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Bing_0002.jpg",
+   "wheat_stripe_rust_Google_0045.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Bing_0055.jpg",
+   "wheat_stripe_rust_Bing_0137.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Bing_0031.jpg",
+   "wheat_stripe_rust_Bing_0173.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Bing_0006.jpg",
+   "wheat_stripe_rust_Google_0029.jpg"
+  ],
+  [
+   "zucchini_bacterial_wilt_Bing_0019.jpg",
+   "zucchini_bacterial_wilt_Google_0008.jpg"
+  ],
+  [
+   "zucchini_powdery_mildew_Bing_0289.jpg",
+   "zucchini_powdery_mildew_Bing_0330.jpg"
+  ],
+  [
+   "zucchini_powdery_mildew_Bing_0230.jpg",
+   "zucchini_powdery_mildew_Bing_0336.jpg",
+   "zucchini_powdery_mildew_Bing_0357.jpg"
+  ],
+  [
+   "zucchini_powdery_mildew_Bing_0297.jpg",
+   "zucchini_powdery_mildew_Bing_0337.jpg"
+  ],
+  [
+   "apple_rust_162.jpg",
+   "apple_scab_76.jpg"
+  ],
+  [
+   "apple_rust_78.jpg",
+   "apple_scab_65.jpg"
+  ],
+  [
+   "banana_anthracnose_Bing_0023.jpg",
+   "banana_anthracnose_Bing_0075.jpg"
+  ],
+  [
+   "banana_anthracnose_Bing_0065.jpg",
+   "banana_anthracnose_Bing_0300.jpg"
+  ],
+  [
+   "banana_black_leaf_streak_Bing_0005.jpg",
+   "banana_black_leaf_streak_banana black sigatoka (30).jpg",
+   "banana_black_leaf_streak_banana black sigatoka (34).jpg"
+  ],
+  [
+   "banana_black_leaf_streak_Bing_0026.jpg",
+   "banana_black_leaf_streak_banana black sigatoka (52).jpg"
+  ],
+  [
+   "banana_black_leaf_streak_Bing_0046.jpg",
+   "banana_black_leaf_streak_banana black sigatoka (7).jpg"
+  ],
+  [
+   "banana_black_leaf_streak_Bing_0056.jpg",
+   "banana_black_leaf_streak_banana black sigatoka (55).jpg",
+   "banana_black_leaf_streak_banana black sigatoka (9).jpg"
+  ],
+  [
+   "banana_bunchy_top_Bing_0026.jpg",
+   "banana_bunchy_top_Bing_0247.jpg"
+  ],
+  [
+   "banana_bunchy_top_Bing_0045.jpg",
+   "banana_bunchy_top_Google_0031.jpg"
+  ],
+  [
+   "banana_bunchy_top_Bing_0141.jpg",
+   "banana_bunchy_top_Bing_0347.jpg",
+   "banana_bunchy_top_Google_0159.jpg"
+  ],
+  [
+   "banana_bunchy_top_Bing_0122.jpg",
+   "banana_bunchy_top_Bing_0245.jpg"
+  ],
+  [
+   "banana_cigar_end_rot_Bing_0011.jpg",
+   "banana_cigar_end_rot_Google_0035.jpg"
+  ],
+  [
+   "banana_cordana_leaf_spot_Bing_0005.jpg",
+   "banana_cordana_leaf_spot_Google_0014.jpg"
+  ],
+  [
+   "citrus_canker_306.jpg",
+   "citrus_canker_308.jpg"
+  ],
+  [
+   "potato_early_blight_100.jpg",
+   "potato_early_blight_31.jpg"
+  ],
+  [
+   "potato_early_blight_55.jpg",
+   "potato_late_blight_10.jpg"
+  ],
+  [
+   "potato_early_blight_google_0005.jpg",
+   "tomato_early_blight_google_0044.jpg"
+  ],
+  [
+   "potato_early_blight_google_0055.jpg",
+   "tomato_early_blight_google_0120.jpg"
+  ],
+  [
+   "potato_early_blight_google_0200.jpg",
+   "tomato_early_blight_google_0343.jpg"
+  ],
+  [
+   "potato_early_blight_google_0284.jpg",
+   "potato_late_blight_google_0035.jpg"
+  ],
+  [
+   "soybean_bacterial_blight_Bing_0000.jpg",
+   "soybean_brown_spot_Bing_0051.jpg"
+  ],
+  [
+   "soybean_bacterial_blight_Bing_0103.jpg",
+   "soybean_brown_spot_Bing_0049.jpg"
+  ],
+  [
+   "soybean_bacterial_blight_Bing_0119.jpg",
+   "soybean_brown_spot_Bing_0041.jpg"
+  ],
+  [
+   "soybean_brown_spot_Bing_0129.jpg",
+   "soybean_brown_spot_Bing_0161.jpg"
+  ],
+  [
+   "soybean_brown_spot_Bing_0132.jpg",
+   "soybean_brown_spot_Bing_0160.jpg"
+  ],
+  [
+   "soybean_brown_spot_Bing_0241.jpg",
+   "soybean_brown_spot_Bing_0261.jpg"
+  ],
+  [
+   "soybean_downy_mildew_Bing_0020.jpg",
+   "soybean_downy_mildew_Google_0023.jpg"
+  ],
+  [
+   "soybean_downy_mildew_Bing_0059.jpg",
+   "soybean_downy_mildew_Bing_0071.jpg",
+   "soybean_downy_mildew_Google_0090.jpg",
+   "soybean_downy_mildew_Google_0127.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0018.jpg",
+   "soybean_frog_eye_leaf_spot_Google_0004.jpg",
+   "soybean_frog_eye_leaf_spot_Google_0054.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0046.jpg",
+   "soybean_frog_eye_leaf_spot_Google_0018.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0091.jpg",
+   "soybean_frog_eye_leaf_spot_Google_0149.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0093.jpg",
+   "soybean_frog_eye_leaf_spot_Google_0284.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0172.jpg",
+   "soybean_frog_eye_leaf_spot_Google_0327.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0178.jpg",
+   "soybean_frog_eye_leaf_spot_Google_0015.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0184.jpg",
+   "soybean_frog_eye_leaf_spot_Google_0213.jpg"
+  ],
+  [
+   "soybean_mosaic_Bing_0070.jpg",
+   "soybean_mosaic_Google_0090.jpg"
+  ],
+  [
+   "soybean_rust_Bing_0098.jpg",
+   "soybean_rust_Google_0010.jpg"
+  ],
+  [
+   "tomato_bacterial_leaf_spot_google_0017.jpg",
+   "tomato_septoria_leaf_spot_google_0113.jpg"
+  ],
+  [
+   "tomato_bacterial_leaf_spot_google_0091.jpg",
+   "tomato_septoria_leaf_spot_google_0204.jpg"
+  ],
+  [
+   "potato_early_blight_41.jpg",
+   "tomato_early_blight_246.jpg"
+  ],
+  [
+   "tomato_mosaic_virus_2.jpg",
+   "tomato_yellow_leaf_curl_virus_1.jpg"
+  ],
+  [
+   "tomato_bacterial_leaf_spot_28.jpg",
+   "tomato_septoria_leaf_spot_6.jpg"
+  ],
+  [
+   "tomato_mosaic_virus_1.jpg",
+   "tomato_yellow_leaf_curl_virus_11.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0085.jpg",
+   "wheat_head_scab_Baidu_0298.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0091.jpg",
+   "wheat_head_scab_Baidu_0094.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0092.jpg",
+   "wheat_head_scab_Baidu_0095.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0131.jpg",
+   "wheat_head_scab_Baidu_0364.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0058.jpg",
+   "wheat_head_scab_Baidu_0192.jpg",
+   "wheat_head_scab_Baidu_0215.jpg",
+   "wheat_head_scab_Baidu_0289.jpg",
+   "wheat_head_scab_Baidu_0322.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0194.jpg",
+   "wheat_head_scab_Baidu_0296.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0197.jpg",
+   "wheat_head_scab_Baidu_0303.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0254.jpg",
+   "wheat_head_scab_Baidu_0380.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0257.jpg",
+   "wheat_head_scab_Baidu_0383.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0271.jpg",
+   "wheat_head_scab_Baidu_0394.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0276.jpg",
+   "wheat_head_scab_Baidu_0399.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0231.jpg",
+   "wheat_head_scab_Baidu_0344.jpg"
+  ],
+  [
+   "wheat_head_scab_Bing_0008.jpg",
+   "wheat_head_scab_Bing_0202.jpg",
+   "wheat_head_scab_Google_0259.jpg"
+  ],
+  [
+   "wheat_head_scab_Bing_0036.jpg",
+   "wheat_head_scab_Bing_0144.jpg"
+  ],
+  [
+   "wheat_head_scab_Bing_0067.jpg",
+   "wheat_head_scab_Bing_0132.jpg"
+  ],
+  [
+   "wheat_head_scab_Bing_0002.jpg",
+   "wheat_head_scab_Bing_0100.jpg",
+   "wheat_head_scab_Google_0105.jpg"
+  ],
+  [
+   "wheat_head_scab_Bing_0175.jpg",
+   "wheat_head_scab_Google_0196.jpg"
+  ],
+  [
+   "wheat_leaf_rust_Bing_0001.jpg",
+   "wheat_leaf_rust_Google_0000.jpg"
+  ],
+  [
+   "wheat_leaf_rust_Bing_0009.jpg",
+   "wheat_stripe_rust_Bing_0028.jpg"
+  ],
+  [
+   "wheat_leaf_rust_Google_0066.jpg",
+   "wheat_stripe_rust_Google_0147.jpg"
+  ],
+  [
+   "wheat_leaf_rust_Google_0355.jpg",
+   "wheat_stripe_rust_Bing_0247.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0015.jpg",
+   "wheat_loose_smut_Google_0041.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0023.jpg",
+   "wheat_loose_smut_Bing_0192.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0079.jpg",
+   "wheat_loose_smut_Bing_0100.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0091.jpg",
+   "wheat_loose_smut_Google_0132.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0111.jpg",
+   "wheat_loose_smut_Bing_0145.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0043.jpg",
+   "wheat_loose_smut_Bing_0169.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0200.jpg",
+   "wheat_loose_smut_Bing_0228.jpg",
+   "wheat_loose_smut_Google_0081.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0236.jpg",
+   "wheat_loose_smut_Bing_0268.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0321.jpg",
+   "wheat_loose_smut_Bing_0384.jpg"
+  ],
+  [
+   "wheat_powdery_mildew_Bing_0066.jpg",
+   "wheat_powdery_mildew_Google_0012.jpg"
+  ],
+  [
+   "wheat_powdery_mildew_Bing_0090.jpg",
+   "wheat_powdery_mildew_Google_0163.jpg"
+  ],
+  [
+   "wheat_septoria_blotch_Bing_0017.jpg",
+   "wheat_septoria_blotch_blotch (70).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_Google_0005.jpg",
+   "wheat_septoria_blotch_google_septoria (1).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_Google_0338.jpg",
+   "wheat_septoria_blotch_google_septoria (25).jpg"
+  ],
+  [
+   "wheat_bacterial_leaf_streak_(black_chaff)_Bing_0002.jpg",
+   "wheat_septoria_blotch_blotch (23).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_blotch (30).jpg",
+   "wheat_septoria_blotch_blotch (96).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_blotch (32).jpg",
+   "wheat_septoria_blotch_blotch (68).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_blotch (18).jpg",
+   "wheat_septoria_blotch_blotch (41).jpg"
+  ],
+  [
+   "wheat_stem_rust_Bing_0001.jpg",
+   "wheat_stem_rust_Bing_0111.jpg"
+  ],
+  [
+   "wheat_stem_rust_Bing_0007.jpg",
+   "wheat_stem_rust_Bing_0013.jpg",
+   "wheat_stem_rust_Bing_0206.jpg",
+   "wheat_stem_rust_Google_0052.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Baidu_0468.jpg",
+   "wheat_stripe_rust_Baidu_0487.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Bing_0029.jpg",
+   "wheat_stripe_rust_Bing_0081.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Bing_0039.jpg",
+   "wheat_stripe_rust_Bing_0096.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Bing_0048.jpg",
+   "wheat_stripe_rust_Bing_0122.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Bing_0037.jpg",
+   "wheat_stripe_rust_Bing_0095.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Bing_0145.jpg",
+   "wheat_stripe_rust_Google_0009.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Bing_0063.jpg",
+   "wheat_stripe_rust_Bing_0240.jpg"
+  ],
+  [
+   "zucchini_powdery_mildew_Bing_0007.jpg",
+   "zucchini_powdery_mildew_Google_0187.jpg"
+  ],
+  [
+   "zucchini_powdery_mildew_Bing_0281.jpg",
+   "zucchini_powdery_mildew_Bing_0321.jpg"
+  ],
+  [
+   "zucchini_powdery_mildew_Bing_0004.jpg",
+   "zucchini_powdery_mildew_Bing_0282.jpg",
+   "zucchini_powdery_mildew_Bing_0322.jpg"
+  ],
+  [
+   "zucchini_powdery_mildew_Bing_0283.jpg",
+   "zucchini_powdery_mildew_Bing_0324.jpg"
+  ],
+  [
+   "zucchini_powdery_mildew_Bing_0298.jpg",
+   "zucchini_powdery_mildew_Bing_0341.jpg"
+  ],
+  [
+   "zucchini_powdery_mildew_Google_0090.jpg",
+   "zucchini_powdery_mildew_Google_0114.jpg"
+  ],
+  [
+   "banana_black_leaf_streak_Bing_0165.jpg",
+   "banana_cordana_leaf_spot_Bing_0097.jpg"
+  ],
+  [
+   "banana_bunchy_top_Bing_0242.jpg",
+   "banana_bunchy_top_Bing_0345.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0014.jpg",
+   "wheat_loose_smut_Google_0002.jpg"
+  ],
+  [
+   "apple_black_rot_144.jpg",
+   "apple_black_rot_6.jpg"
+  ],
+  [
+   "apple_black_rot_18.jpg",
+   "apple_rust_96.jpg"
+  ],
+  [
+   "apple_black_rot_1.jpg",
+   "apple_scab_66.jpg"
+  ],
+  [
+   "banana_black_leaf_streak_Bing_0029.jpg",
+   "banana_black_leaf_streak_banana black sigatoka (42).jpg"
+  ],
+  [
+   "banana_cigar_end_rot_Bing_0014.jpg",
+   "banana_cigar_end_rot_Bing_0071.jpg"
+  ],
+  [
+   "citrus_canker_107.jpg",
+   "citrus_canker_399.jpg"
+  ],
+  [
+   "citrus_canker_163.jpg",
+   "citrus_canker_288.jpg"
+  ],
+  [
+   "citrus_canker_285.jpg",
+   "citrus_canker_312.jpg"
+  ],
+  [
+   "citrus_canker_441.jpg",
+   "citrus_canker_90.jpg"
+  ],
+  [
+   "potato_early_blight_google_0004.jpg",
+   "potato_early_blight_google_0345.jpg"
+  ],
+  [
+   "potato_early_blight_google_0018.jpg",
+   "potato_early_blight_google_0081.jpg"
+  ],
+  [
+   "potato_late_blight_3.jpg",
+   "potato_late_blight_google_0048.jpg"
+  ],
+  [
+   "soybean_bacterial_blight_Bing_0049.jpg",
+   "soybean_bacterial_blight_Google_0242.jpg"
+  ],
+  [
+   "soybean_bacterial_blight_Bing_0055.jpg",
+   "soybean_bacterial_blight_Bing_0166.jpg"
+  ],
+  [
+   "soybean_bacterial_blight_Bing_0066.jpg",
+   "soybean_bacterial_blight_Google_0022.jpg"
+  ],
+  [
+   "soybean_bacterial_blight_Bing_0056.jpg",
+   "soybean_bacterial_blight_Bing_0172.jpg"
+  ],
+  [
+   "soybean_brown_spot_Bing_0021.jpg",
+   "soybean_brown_spot_Bing_0090.jpg"
+  ],
+  [
+   "soybean_downy_mildew_Bing_0023.jpg",
+   "soybean_downy_mildew_Bing_0151.jpg"
+  ],
+  [
+   "soybean_downy_mildew_Bing_0038.jpg",
+   "soybean_downy_mildew_Google_0029.jpg"
+  ],
+  [
+   "soybean_downy_mildew_Bing_0006.jpg",
+   "soybean_downy_mildew_Bing_0045.jpg",
+   "soybean_downy_mildew_Google_0007.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0012.jpg",
+   "soybean_frog_eye_leaf_spot_Google_0135.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0024.jpg",
+   "soybean_frog_eye_leaf_spot_Bing_0095.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0103.jpg",
+   "soybean_frog_eye_leaf_spot_Google_0128.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0138.jpg",
+   "soybean_frog_eye_leaf_spot_Google_0048.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0135.jpg",
+   "soybean_frog_eye_leaf_spot_Google_0056.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0031.jpg",
+   "soybean_frog_eye_leaf_spot_Bing_0186.jpg",
+   "soybean_frog_eye_leaf_spot_Google_0057.jpg"
+  ],
+  [
+   "soybean_mosaic_Bing_0036.jpg",
+   "soybean_mosaic_Bing_0231.jpg"
+  ],
+  [
+   "soybean_mosaic_Bing_0062.jpg",
+   "soybean_mosaic_Bing_0226.jpg"
+  ],
+  [
+   "soybean_mosaic_Bing_0112.jpg",
+   "soybean_mosaic_Bing_0140.jpg"
+  ],
+  [
+   "soybean_bacterial_blight_Baidu_0033.jpg",
+   "soybean_rust_Bing_0022.jpg"
+  ],
+  [
+   "soybean_rust_Bing_0032.jpg",
+   "soybean_rust_Bing_0053.jpg"
+  ],
+  [
+   "soybean_rust_Bing_0023.jpg",
+   "soybean_rust_Bing_0055.jpg"
+  ],
+  [
+   "soybean_rust_Bing_0014.jpg",
+   "soybean_rust_Bing_0074.jpg"
+  ],
+  [
+   "tomato_bacterial_leaf_spot_78.jpg",
+   "tomato_septoria_leaf_spot_174.jpg"
+  ],
+  [
+   "tomato_early_blight_173.jpg",
+   "tomato_early_blight_28.jpg"
+  ],
+  [
+   "tomato_early_blight_google_0059.jpg",
+   "tomato_early_blight_google_0347.jpg",
+   "tomato_septoria_leaf_spot_google_0070.jpg"
+  ],
+  [
+   "potato_early_blight_google_0079.jpg",
+   "tomato_early_blight_google_0267.jpg"
+  ],
+  [
+   "tomato_mosaic_virus_16.jpg",
+   "tomato_yellow_leaf_curl_virus_62.jpg"
+  ],
+  [
+   "tomato_early_blight_210.jpg",
+   "tomato_septoria_leaf_spot_243.jpg"
+  ],
+  [
+   "wheat_bacterial_leaf_streak_(black_chaff)_Bing_0004.jpg",
+   "wheat_septoria_blotch_blotch (82).jpg"
+  ],
+  [
+   "wheat_bacterial_leaf_streak_(black_chaff)_black_chaff (25).jpg",
+   "wheat_stripe_rust_Bing_0130.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0101.jpg",
+   "wheat_head_scab_Baidu_0185.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0431.jpg",
+   "wheat_head_scab_Baidu_0468.jpg"
+  ],
+  [
+   "wheat_head_scab_Bing_0009.jpg",
+   "wheat_head_scab_Bing_0111.jpg"
+  ],
+  [
+   "wheat_head_scab_Bing_0269.jpg",
+   "wheat_head_scab_Bing_0287.jpg",
+   "wheat_head_scab_Bing_0319.jpg"
+  ],
+  [
+   "wheat_head_scab_Bing_0214.jpg",
+   "wheat_head_scab_Google_0309.jpg"
+  ],
+  [
+   "wheat_leaf_rust_Bing_0015.jpg",
+   "wheat_leaf_rust_Google_0040.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0011.jpg",
+   "wheat_loose_smut_Bing_0097.jpg"
+  ],
+  [
+   "wheat_powdery_mildew_Baidu_0049.jpg",
+   "wheat_powdery_mildew_Baidu_0194.jpg"
+  ],
+  [
+   "wheat_powdery_mildew_Bing_0016.jpg",
+   "wheat_powdery_mildew_Google_0051.jpg"
+  ],
+  [
+   "wheat_powdery_mildew_Bing_0023.jpg",
+   "wheat_powdery_mildew_Bing_0127.jpg",
+   "wheat_powdery_mildew_Google_0016.jpg"
+  ],
+  [
+   "wheat_powdery_mildew_Bing_0004.jpg",
+   "wheat_powdery_mildew_Bing_0170.jpg"
+  ],
+  [
+   "wheat_powdery_mildew_Bing_0214.jpg",
+   "wheat_powdery_mildew_Google_0263.jpg"
+  ],
+  [
+   "wheat_powdery_mildew_Bing_0106.jpg",
+   "wheat_powdery_mildew_Google_0101.jpg"
+  ],
+  [
+   "wheat_stem_rust_Baidu_0003.jpg",
+   "wheat_stem_rust_Bing_0076.jpg",
+   "wheat_stem_rust_Bing_0197.jpg"
+  ],
+  [
+   "wheat_stem_rust_Bing_0016.jpg",
+   "wheat_stem_rust_Bing_0136.jpg"
+  ],
+  [
+   "wheat_stem_rust_Bing_0173.jpg",
+   "wheat_stem_rust_Google_0071.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Baidu_0120.jpg",
+   "wheat_stripe_rust_Baidu_0456.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Baidu_0165.jpg",
+   "wheat_stripe_rust_Baidu_0317.jpg",
+   "wheat_stripe_rust_Baidu_0359.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Bing_0263.jpg",
+   "wheat_stripe_rust_Google_0223.jpg"
+  ],
+  [
+   "zucchini_powdery_mildew_Bing_0002.jpg",
+   "zucchini_powdery_mildew_Bing_0037.jpg"
+  ],
+  [
+   "zucchini_powdery_mildew_Bing_0052.jpg",
+   "zucchini_powdery_mildew_Bing_0097.jpg"
+  ],
+  [
+   "zucchini_powdery_mildew_Bing_0109.jpg",
+   "zucchini_powdery_mildew_Bing_0140.jpg",
+   "zucchini_powdery_mildew_Bing_0183.jpg"
+  ],
+  [
+   "apple_mosaic_virus_google_0001.jpg",
+   "apple_mosaic_virus_google_0013.jpg"
+  ],
+  [
+   "apple_rust_30.jpg",
+   "apple_scab_33.jpg"
+  ],
+  [
+   "banana_anthracnose_Bing_0035.jpg",
+   "banana_anthracnose_Bing_0068.jpg"
+  ],
+  [
+   "banana_black_leaf_streak_Baidu_0039.jpg",
+   "banana_black_leaf_streak_banana black sigatoka (102).jpg",
+   "banana_panama_disease_5.jpg"
+  ],
+  [
+   "banana_black_leaf_streak_Bing_0003.jpg",
+   "banana_black_leaf_streak_Bing_0073.jpg"
+  ],
+  [
+   "banana_black_leaf_streak_Bing_0136.jpg",
+   "banana_cordana_leaf_spot_Bing_0008.jpg"
+  ],
+  [
+   "banana_black_leaf_streak_banana black sigatoka (29).jpg",
+   "banana_black_leaf_streak_banana black sigatoka (6).jpg"
+  ],
+  [
+   "banana_black_leaf_streak_banana black sigatoka (4).jpg",
+   "banana_black_leaf_streak_banana black sigatoka (75).jpg"
+  ],
+  [
+   "banana_bunchy_top_Bing_0081.jpg",
+   "banana_bunchy_top_Bing_0251.jpg"
+  ],
+  [
+   "banana_bunchy_top_Bing_0095.jpg",
+   "banana_bunchy_top_Google_0026.jpg"
+  ],
+  [
+   "banana_bunchy_top_Bing_0119.jpg",
+   "banana_bunchy_top_Bing_0172.jpg"
+  ],
+  [
+   "banana_black_leaf_streak_banana black sigatoka (15).jpg",
+   "banana_panama_disease_google_0062.jpg"
+  ],
+  [
+   "citrus_canker_169.jpg",
+   "citrus_canker_202.jpg",
+   "citrus_canker_233.jpg",
+   "citrus_canker_382.jpg"
+  ],
+  [
+   "citrus_canker_225.jpg",
+   "citrus_canker_37.jpg",
+   "citrus_canker_google_0037.jpg"
+  ],
+  [
+   "citrus_canker_252.jpg",
+   "citrus_canker_59.jpg"
+  ],
+  [
+   "citrus_canker_259.jpg",
+   "citrus_canker_33.jpg"
+  ],
+  [
+   "citrus_canker_323.jpg",
+   "citrus_canker_403.jpg",
+   "citrus_canker_44.jpg"
+  ],
+  [
+   "citrus_canker_371.jpg",
+   "citrus_canker_412.jpg"
+  ],
+  [
+   "potato_early_blight_google_0013.jpg",
+   "tomato_early_blight_google_0093.jpg"
+  ],
+  [
+   "potato_early_blight_google_0116.jpg",
+   "tomato_early_blight_google_0271.jpg"
+  ],
+  [
+   "soybean_bacterial_blight_Bing_0006.jpg",
+   "soybean_bacterial_blight_Bing_0088.jpg"
+  ],
+  [
+   "soybean_bacterial_blight_Bing_0010.jpg",
+   "soybean_bacterial_blight_Bing_0063.jpg"
+  ],
+  [
+   "soybean_bacterial_blight_Bing_0031.jpg",
+   "soybean_bacterial_blight_Bing_0099.jpg"
+  ],
+  [
+   "soybean_bacterial_blight_Bing_0060.jpg",
+   "tomato_bacterial_leaf_spot_google_0324.jpg"
+  ],
+  [
+   "soybean_bacterial_blight_Bing_0140.jpg",
+   "soybean_bacterial_blight_Bing_0151.jpg"
+  ],
+  [
+   "soybean_brown_spot_Bing_0014.jpg",
+   "soybean_brown_spot_Bing_0065.jpg",
+   "soybean_brown_spot_Bing_0317.jpg"
+  ],
+  [
+   "soybean_downy_mildew_Bing_0013.jpg",
+   "soybean_downy_mildew_Google_0025.jpg"
+  ],
+  [
+   "soybean_downy_mildew_Bing_0022.jpg",
+   "soybean_downy_mildew_Bing_0036.jpg"
+  ],
+  [
+   "soybean_downy_mildew_Bing_0032.jpg",
+   "soybean_downy_mildew_Google_0080.jpg"
+  ],
+  [
+   "soybean_downy_mildew_Bing_0033.jpg",
+   "soybean_downy_mildew_Google_0045.jpg"
+  ],
+  [
+   "soybean_downy_mildew_Bing_0015.jpg",
+   "soybean_downy_mildew_Bing_0037.jpg"
+  ],
+  [
+   "soybean_downy_mildew_Bing_0065.jpg",
+   "soybean_downy_mildew_Google_0019.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0019.jpg",
+   "soybean_frog_eye_leaf_spot_Bing_0165.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0022.jpg",
+   "soybean_frog_eye_leaf_spot_Bing_0079.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0023.jpg",
+   "soybean_frog_eye_leaf_spot_Bing_0139.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0044.jpg",
+   "soybean_frog_eye_leaf_spot_Google_0355.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0051.jpg",
+   "soybean_frog_eye_leaf_spot_Bing_0146.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0061.jpg",
+   "soybean_frog_eye_leaf_spot_Bing_0159.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0063.jpg",
+   "soybean_frog_eye_leaf_spot_Google_0031.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0078.jpg",
+   "soybean_frog_eye_leaf_spot_Google_0073.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0106.jpg",
+   "soybean_frog_eye_leaf_spot_Bing_0151.jpg"
+  ],
+  [
+   "soybean_frog_eye_leaf_spot_Bing_0144.jpg",
+   "soybean_frog_eye_leaf_spot_Google_0064.jpg"
+  ],
+  [
+   "soybean_mosaic_Bing_0015.jpg",
+   "soybean_mosaic_Bing_0044.jpg"
+  ],
+  [
+   "soybean_mosaic_Bing_0102.jpg",
+   "soybean_mosaic_Bing_0219.jpg"
+  ],
+  [
+   "soybean_mosaic_Bing_0182.jpg",
+   "soybean_mosaic_Bing_0217.jpg"
+  ],
+  [
+   "soybean_rust_Bing_0068.jpg",
+   "soybean_rust_Bing_0081.jpg"
+  ],
+  [
+   "soybean_rust_Bing_0115.jpg",
+   "soybean_rust_Bing_0255.jpg"
+  ],
+  [
+   "soybean_rust_Bing_0155.jpg",
+   "soybean_rust_Google_0177.jpg"
+  ],
+  [
+   "tomato_early_blight_193.jpg",
+   "tomato_early_blight_47.jpg"
+  ],
+  [
+   "potato_early_blight_google_0048.jpg",
+   "tomato_early_blight_google_0076.jpg"
+  ],
+  [
+   "tomato_early_blight_google_0322.jpg",
+   "tomato_septoria_leaf_spot_google_0001.jpg"
+  ],
+  [
+   "tomato_leaf_mold_137.jpg",
+   "tomato_leaf_mold_217.jpg"
+  ],
+  [
+   "tomato_leaf_mold_195.jpg",
+   "tomato_leaf_mold_google_0260.jpg"
+  ],
+  [
+   "wheat_bacterial_leaf_streak_(black_chaff)_black_chaff (1).jpg",
+   "wheat_bacterial_leaf_streak_(black_chaff)_black_chaff (26).jpg"
+  ],
+  [
+   "wheat_bacterial_leaf_streak_(black_chaff)_black_chaff (27).jpg",
+   "wheat_bacterial_leaf_streak_(black_chaff)_black_chaff (6).jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0030.jpg",
+   "wheat_head_scab_Baidu_0321.jpg"
+  ],
+  [
+   "wheat_head_scab_Baidu_0176.jpg",
+   "wheat_head_scab_Baidu_0369.jpg"
+  ],
+  [
+   "wheat_head_scab_Bing_0001.jpg",
+   "wheat_head_scab_Bing_0126.jpg"
+  ],
+  [
+   "wheat_head_scab_Bing_0007.jpg",
+   "wheat_head_scab_Google_0331.jpg"
+  ],
+  [
+   "wheat_head_scab_Google_0129.jpg",
+   "wheat_loose_smut_Google_0377.jpg"
+  ],
+  [
+   "wheat_leaf_rust_Baidu_0081.jpg",
+   "wheat_leaf_rust_Baidu_0233.jpg"
+  ],
+  [
+   "wheat_leaf_rust_Baidu_0112.jpg",
+   "wheat_septoria_blotch_blotch (126).jpg"
+  ],
+  [
+   "wheat_leaf_rust_Bing_0051.jpg",
+   "wheat_leaf_rust_Google_0263.jpg"
+  ],
+  [
+   "wheat_leaf_rust_Bing_0058.jpg",
+   "wheat_leaf_rust_Google_0044.jpg"
+  ],
+  [
+   "wheat_loose_smut_Baidu_0042.jpg",
+   "wheat_loose_smut_Bing_0127.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0001.jpg",
+   "wheat_loose_smut_Bing_0141.jpg",
+   "wheat_loose_smut_Google_0040.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0006.jpg",
+   "wheat_loose_smut_Bing_0323.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0013.jpg",
+   "wheat_loose_smut_Bing_0139.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0025.jpg",
+   "wheat_loose_smut_Google_0061.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0033.jpg",
+   "wheat_loose_smut_Bing_0093.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0047.jpg",
+   "wheat_loose_smut_Bing_0126.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0000.jpg",
+   "wheat_loose_smut_Bing_0077.jpg",
+   "wheat_loose_smut_Bing_0197.jpg",
+   "wheat_loose_smut_Google_0007.jpg"
+  ],
+  [
+   "wheat_loose_smut_Bing_0121.jpg",
+   "wheat_loose_smut_Google_0062.jpg"
+  ],
+  [
+   "wheat_powdery_mildew_Baidu_0022.jpg",
+   "wheat_powdery_mildew_Baidu_0178.jpg"
+  ],
+  [
+   "wheat_powdery_mildew_Baidu_0000.jpg",
+   "wheat_powdery_mildew_Baidu_0186.jpg"
+  ],
+  [
+   "wheat_powdery_mildew_Bing_0011.jpg",
+   "wheat_powdery_mildew_Bing_0083.jpg"
+  ],
+  [
+   "wheat_powdery_mildew_Bing_0021.jpg",
+   "wheat_powdery_mildew_Bing_0096.jpg"
+  ],
+  [
+   "wheat_powdery_mildew_Bing_0136.jpg",
+   "wheat_powdery_mildew_Bing_0172.jpg"
+  ],
+  [
+   "wheat_septoria_blotch_Bing_0031.jpg",
+   "wheat_septoria_blotch_blotch (20).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_Bing_0043.jpg",
+   "wheat_septoria_blotch_blotch (42).jpg",
+   "wheat_septoria_blotch_google_septoria (5).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_Bing_0047.jpg",
+   "wheat_septoria_blotch_blotch (77).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_Google_0272.jpg",
+   "wheat_septoria_blotch_blotch (6).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_blotch (62).jpg",
+   "wheat_septoria_blotch_blotch (8).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_blotch (16).jpg",
+   "wheat_septoria_blotch_blotch (66).jpg"
+  ],
+  [
+   "wheat_septoria_blotch_blotch (55).jpg",
+   "wheat_septoria_blotch_blotch (73).jpg"
+  ],
+  [
+   "wheat_stem_rust_Bing_0027.jpg",
+   "wheat_stem_rust_Bing_0274.jpg"
+  ],
+  [
+   "wheat_stem_rust_Bing_0046.jpg",
+   "wheat_stem_rust_Bing_0104.jpg"
+  ],
+  [
+   "wheat_stem_rust_Bing_0065.jpg",
+   "wheat_stem_rust_Google_0312.jpg"
+  ],
+  [
+   "wheat_stem_rust_Bing_0139.jpg",
+   "wheat_stem_rust_Bing_0169.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Bing_0001.jpg",
+   "wheat_stripe_rust_Bing_0082.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Bing_0079.jpg",
+   "wheat_stripe_rust_Google_0311.jpg"
+  ],
+  [
+   "wheat_stripe_rust_Bing_0094.jpg",
+   "wheat_stripe_rust_Google_0010.jpg"
+  ],
+  [
+   "zucchini_downy_mildew_Bing_0007.jpg",
+   "zucchini_downy_mildew_Bing_0078.jpg"
+  ],
+  [
+   "zucchini_downy_mildew_Bing_0143.jpg",
+   "zucchini_downy_mildew_Bing_0210.jpg"
+  ],
+  [
+   "zucchini_powdery_mildew_Bing_0000.jpg",
+   "zucchini_powdery_mildew_Bing_0073.jpg"
+  ],
+  [
+   "zucchini_powdery_mildew_Bing_0015.jpg",
+   "zucchini_powdery_mildew_Bing_0036.jpg"
+  ],
+  [
+   "zucchini_powdery_mildew_Bing_0053.jpg",
+   "zucchini_powdery_mildew_Bing_0096.jpg"
+  ],
+  [
+   "zucchini_powdery_mildew_Bing_0062.jpg",
+   "zucchini_powdery_mildew_Bing_0083.jpg"
+  ],
+  [
+   "zucchini_powdery_mildew_Bing_0075.jpg",
+   "zucchini_powdery_mildew_Bing_0203.jpg"
+  ],
+  [
+   "zucchini_powdery_mildew_Bing_0112.jpg",
+   "zucchini_powdery_mildew_Bing_0143.jpg"
+  ],
+  [
+   "zucchini_yellow_mosaic_virus_116.jpg",
+   "zucchini_yellow_mosaic_virus_224.jpg"
+  ],
+  [
+   "soybean_bacterial_blight_Bing_0017.jpg",
+   "soybean_bacterial_blight_Bing_0106.jpg"
+  ],
+  [
+   "wheat_head_scab_Bing_0004.jpg",
+   "wheat_head_scab_Bing_0095.jpg"
+  ],
+  [
+   "wheat_stem_rust_Bing_0048.jpg",
+   "wheat_stem_rust_Bing_0124.jpg"
+  ]
+ ]
+}
