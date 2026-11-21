@@ -1,0 +1,5 @@
+{
+  "S3_cnxs": {"augment": true, "arch": "convnext_small"},
+  "S3_cnxt_lrb5e-5": {"augment": true, "arch": "convnext_tiny", "lr_backbone": 5e-5},
+  "S3_cnxt_lrb2e-4": {"augment": true, "arch": "convnext_tiny", "lr_backbone": 2e-4}
+}

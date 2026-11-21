@@ -1,0 +1,9 @@
+# Runtime dependencies. On Colab/Kaggle torch + torchvision are preinstalled (CUDA builds); install them yourself
+# elsewhere (we used torch 2.15.0 / torchvision 0.29.2, CUDA 13.2). Exact versions: requirements-lock.txt.
+imagehash>=4.3
+scikit-learn>=1.4
+scipy>=1.11
+pandas>=2.1
+matplotlib>=3.8
+pillow>=10
+huggingface_hub>=0.24

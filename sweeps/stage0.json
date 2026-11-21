@@ -1,0 +1,6 @@
+{
+  "E0_frozen": {"finetune": false},
+  "E1_finetune": {"finetune": true},
+  "E2_finetune_cw": {"finetune": true, "class_weights": true},
+  "E3_finetune_aug": {"finetune": true, "augment": true}
+}

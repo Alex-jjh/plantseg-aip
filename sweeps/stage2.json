@@ -1,0 +1,9 @@
+{
+  "S2_cnxt_280": {"augment": true, "arch": "convnext_tiny", "input_size": 280},
+  "S2_cnxt_ls0.1": {"augment": true, "arch": "convnext_tiny", "label_smoothing": 0.1},
+  "S2_cnxt_280_ls0.1": {"augment": true, "arch": "convnext_tiny", "input_size": 280, "label_smoothing": 0.1},
+  "S2_r50_280": {"augment": true, "arch": "resnet50", "input_size": 280},
+  "S2_r50_280_ls0.1": {"augment": true, "arch": "resnet50", "input_size": 280, "label_smoothing": 0.1},
+  "S2_r18_280_ls0.1": {"augment": true, "input_size": 280, "label_smoothing": 0.1},
+  "S2_r18_336": {"augment": true, "input_size": 336}
+}

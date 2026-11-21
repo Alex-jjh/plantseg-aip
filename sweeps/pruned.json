@@ -1,0 +1,4 @@
+{
+  "S2_cnxt_280_ls0.1": "pruned on validation before running: convnext_tiny at 280px (0.795) was below 224px (0.809), so adding label smoothing at 280px was not expected to beat the 224px configs; 2 of 3 seeds were stopped early and discarded",
+  "S2_r50_280_ls0.1": "pruned on validation before running: resnet50 configurations (<=0.78) were clearly below convnext_tiny (~0.81) at higher cost"
+}

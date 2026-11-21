@@ -1,0 +1,12 @@
+{
+  "S1_aug_cw": {"augment": true, "class_weights": true},
+  "S1_aug_lrb3e-5": {"augment": true, "lr_backbone": 3e-5},
+  "S1_aug_lrb3e-4": {"augment": true, "lr_backbone": 3e-4},
+  "S1_aug_ep50": {"augment": true, "epochs": 50},
+  "S1_aug_ls0.1": {"augment": true, "label_smoothing": 0.1},
+  "S1_aug_280": {"augment": true, "input_size": 280},
+  "S1_aug_resnet50": {"augment": true, "arch": "resnet50"},
+  "S1_aug_effb0": {"augment": true, "arch": "efficientnet_b0"},
+  "S1_aug_convnext_t": {"augment": true, "arch": "convnext_tiny"},
+  "S1_aug_mnv3l": {"augment": true, "arch": "mobilenet_v3_large"}
+}
