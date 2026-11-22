@@ -13,7 +13,7 @@ from PIL import Image
 
 from .train import Config, make_model, to_input
 
-HF_REPO_ID = "TODO-hf-user/aip304-cw2-plantseg-option1"  # public Hugging Face model repo with checkpoints/
+HF_REPO_ID = "alexjiang04/plantseg-aip-checkpoints"  # public Hugging Face model repo with checkpoints/
 
 
 def checkpoint_path(run: str, ckpt_dir: Path, repo_id: str = HF_REPO_ID) -> Path:

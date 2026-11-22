@@ -1,7 +1,7 @@
 """Publish checkpoints to a PUBLIC Hugging Face model repo so the notebook's demo mode can download them.
 
-    huggingface-cli login            # once, with a write token
-    python scripts/06_hf_upload.py <user>/aip304-cw2-plantseg-option1
+    hf auth login                    # once, with a write token (huggingface_hub >= 1.0 ships only `hf`)
+    python scripts/06_hf_upload.py alexjiang04/plantseg-aip-checkpoints
 
 Uploads checkpoints/<run>.pt for the final configuration and the planned comparisons E0-E3 (3 seeds each)
 plus a model card. Then set cw2/inference.py HF_REPO_ID to the same repo id.
@@ -29,7 +29,7 @@ tags: [image-classification, plant-disease, pytorch, coursework]
 PyTorch `state_dict`s (torchvision architectures, 43-way head) trained on the PlantSeg v7 nine-host subset
 (Wei et al., 2025, Zenodo 17719108; images CC BY-NC / CC0 by their sources, hence non-commercial licence here).
 Final system: 3-seed ensemble of `{sel['final_config']}` (test macro-F1 0.805). Also the planned comparisons E0-E3.
-Load with `cw2.inference.load_model` from the coursework repository; preprocessing is described there.
+Load with `cw2.inference.load_model` from https://github.com/Alex-jjh/plantseg-aip (preprocessing is described there).
 """
 api = HfApi()
 api.create_repo(repo_id, repo_type="model", private=False, exist_ok=True)
