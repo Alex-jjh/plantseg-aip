@@ -39,14 +39,14 @@ Our runs used one NVIDIA L4 (24 GB) with 4 runs sharing the GPU; recorded times 
 code("""
 MODE = "demo"            # "demo" | "full"
 RUN_FULL_SWEEP = False   # only used when MODE == "full"
-REPO_URL = "https://github.com/TODO/aip304-cw2.git"   # public repo with this notebook, cw2/ and results/
+REPO_URL = "https://github.com/Alex-jjh/plantseg-aip.git"   # public repo: this notebook, cw2/ and results/
 
 import os, sys, subprocess, pathlib
 IN_COLAB = "google.colab" in sys.modules
 REPO = next((p for p in (pathlib.Path.cwd(), pathlib.Path.cwd().parent) if (p / "cw2").is_dir()), None)
 if REPO is None:  # fresh Colab/Kaggle session: fetch the code + committed results
-    subprocess.run(["git", "clone", "--depth", "1", REPO_URL, "aip304-cw2"], check=True)
-    REPO = pathlib.Path("aip304-cw2").resolve()
+    subprocess.run(["git", "clone", "--depth", "1", REPO_URL, "plantseg-aip"], check=True)
+    REPO = pathlib.Path("plantseg-aip").resolve()
 if IN_COLAB or os.environ.get("KAGGLE_KERNEL_RUN_TYPE"):
     subprocess.run([sys.executable, "-m", "pip", "install", "-q", "-r", str(REPO / "requirements.txt")], check=True)
 sys.path.insert(0, str(REPO))
