@@ -31,13 +31,16 @@ accuracy 0.842, balanced accuracy 0.800 — against 0.003 for the majority-class
 | `MODE` | what happens | time (Colab T4) |
 |---|---|---|
 | `"demo"` (default) | downloads + checks the data, rebuilds and verifies the manifest/audit, regenerates every table and figure from the committed run records (`results/runs/`: per-epoch history and val/test logits of all 66 runs), downloads the 3 final checkpoints from Hugging Face and runs inference | ~10–15 min (1.06 GB download) |
-| `"full"` | additionally **retrains** the planned comparisons E0–E3 and the final configuration (5 configs × 3 seeds) into `outputs/rerun/` and compares them with the committed numbers; `RUN_FULL_SWEEP=True` retrains all 22 configurations and re-runs the selection | ~4 h / ~25 GPU-h |
+| `"full"` | additionally **retrains** the planned comparisons E0–E3 and the final configuration (5 configs × 3 seeds) into `outputs/rerun/` and compares them with the committed numbers; `RUN_FULL_SWEEP=True` retrains all 22 configurations and re-runs the selection | 25 min on an L4 (measured); ~1–1.5 h on a T4 (estimate); full sweep ~4 h on an L4 |
 
-Our runs used one NVIDIA L4 (24 GB) with 4 runs sharing the GPU; recorded times in `run.json` are under that sharing.
+**The saved outputs in this file come from a `MODE="full"` execution** on one NVIDIA L4: the training log is in
+Section 5, and the 15 retrained runs reproduce the committed validation and test numbers exactly (table in Section 8).
+The original sweep ran up to 4 runs at once on the same GPU, so times recorded in `run.json` are under that sharing.
 """)
 
 code("""
-MODE = "demo"            # "demo" | "full"
+import os
+MODE = os.environ.get("CW2_MODE", "demo")   # "demo" | "full" (default demo)
 RUN_FULL_SWEEP = False   # only used when MODE == "full"
 REPO_URL = "https://github.com/Alex-jjh/plantseg-aip.git"   # public repo: this notebook, cw2/ and results/
 
@@ -316,7 +319,7 @@ R.fig_comparison(P, SEL); plt.show()
 if MODE == "full":
     rer = X.test_report(P, RUNS, SEL)["table"].set_index("system")[["macro_f1", "accuracy"]]
     display(Markdown("**Reproduction check: retrained in this session vs committed**"))
-    display(rer.join(REP["table"].set_index("system")[["macro_f1", "accuracy"]], rsuffix="_committed"))
+    display(rer.join(REP["table"].set_index("system")[["macro_f1", "accuracy"]].add_suffix("_committed")))
 """)
 
 md("""

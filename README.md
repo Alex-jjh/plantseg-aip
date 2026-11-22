@@ -4,8 +4,10 @@ CNN classification of 43 host–disease classes (9 hosts) from single RGB photog
 
 **Deliverable notebook:** [`notebooks/AIP304_CW2_Option1.ipynb`](notebooks/AIP304_CW2_Option1.ipynb) — one top-to-bottom
 story (data → audit → exploration → baselines → controlled changes → search → frozen selection → test → error
-analysis → inference), saved with outputs. It runs in a fresh Colab/Kaggle GPU session (`MODE="demo"`, ~15 min) or
-retrains (`MODE="full"`).
+analysis → inference), saved with outputs. It runs in a fresh Colab/Kaggle GPU session (`MODE="demo"`, default,
+~15 min) or retrains (`MODE="full"`, 25 min on an L4). The saved outputs come from a full-mode run whose 15 retrained
+models reproduce every reported validation and test number exactly. Checkpoints:
+[huggingface.co/alexjiang04/plantseg-aip-checkpoints](https://huggingface.co/alexjiang04/plantseg-aip-checkpoints).
 
 ## Results (test, evaluated once after a validation-only freeze)
 
